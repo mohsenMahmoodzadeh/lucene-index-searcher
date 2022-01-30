@@ -10,10 +10,12 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.queryparser.classic.ParseException;
-import java.io.File;
+
 import java.io.FileWriter;
 import java.io.IOException;
+
 import java.nio.file.Paths;
+
 import java.util.Set;
 
 public class Searcher {
