@@ -1,0 +1,2235 @@
+.I 207
+.W
+establishment of a cell line in vitro from a case of human lung cancer .
+  1) one cell line has been established from the pneumonectomized       
+specimen of a case with lung cancer, which was diagnosed as             
+undifferentiated cell carcinoma and partially adenocarcinoma by its     
+histological findings and was characterized with intracytoplasmic fat   
+droplets in them .                                                      
+  2) the morphological changes of the cells were repeated but they have 
+been stabilized to their epithelial shapes after the 35th transfer . the
+cell atypy of the culture was remarkable . phagocytosis of the cell line
+has not been observed . it was characterized that the intracytoplasmic  
+droplets found in the original cancer cells have been maintained in the 
+cultured cells, even in their mitotic stage, throughout the cultural    
+course .                                                                
+  3) concerning the chromosomal constitution diploid cells were only 15 
+per cent . the range of chromosome number did not show sharp peak,      
+forming two groups of near diploid and near tetraploid ranges .         
+  4) transplanting the cell to cheekpouches of golden hamsters, the     
+implanted cells grew from the inoculum of 10 cells in conditioned animal
+but did not show the invasiveness to neighbour tissue and metastasis to 
+other organs .                                                          
+.I 208
+.W
+factors influencing development of tumors in frogs .                    
+  (1) study of 75 spontaneous tumors of vermont frogs showed three      
+pathological grades of malignancy present.. aggressive renal            
+adenocarcinoma in some 30 per cent, medium adenocarcinoma in 50 per     
+cent, and lower grade mixed with tumors of undetermined origin in the   
+remaining 20 per cent .                                                 
+  (2) correlation with parasite infections (trematodes) was demonstrable
+in only few cases in the kidney . hyperplasias and neoplasias grading   
+into lung primary carcinoma have been found in the lung in r. pipiens . 
+temperatures below 15 c. protected animals from lung as well as kidney  
+disease . higher temperatures disturbed the host-parasite relationships 
+and led to higher incidence of malignancy . in the bullfrog, precancer  
+was clearly associated with the worm attachment discs .                 
+  (3) other histological types of tumors in vermont frogs included      
+lymphosarcomas, liposarcoma, mesothelioma, epithelioma, and adrenal and 
+cartilage tumors of uncertain malignancy .                              
+  (4) improved methods of obtaining tumor filtrates allowed greater     
+probability of inducing malignancy with direct renal injection . in 106 
+frogs 37 per cent developed histologically provable cancers in the      
+ranges of three to seven months . twenty-six per cent showed some       
+pre-cancer response and 43 per cent were negative . within the series   
+receiving filtrate from high malignancy donors one group yielded 100 per
+cent positive, the others 50 and 38 per cent, respectively .            
+  (5) among animals injected with /low/ malignancy filtrate, fewer      
+tumors resulted . some of these were clearly vesicular carcinomas and   
+could be classed as lung tumors .                                       
+  (6) improved tissue culture methods allowed explants to live in liquid
+media under perforated cellophane up to one year . slower growth, aided 
+by lower temperatures (16 c.) improved the microecology of cell types   
+and allowed detailed daily observations of each cell's intranuclear and 
+intranucleolar physiology for extended time-lapse cine-photography .    
+  (7) mechanisms for malignant transformation are related to increased  
+activity and production of nucleolar dna and rna . the infective dna    
+hypothesis is not classical virus theory, but it does offer detailed    
+support .                                                               
+.I 209
+.W
+mitotic lymphocytes in primary tissue cultures of normal and neoplastic 
+human lung .                                                            
+  normal and tumor tissue explants from 33 resected human lungs were    
+studied in vitro . lymphocyte mitoses were observed in tissue cultures  
+derived from 12 of the lungs . the ability of lymphocytes to undergo    
+mitotic division in human lung tissue culture has not been reported     
+previously . in the autologous systems used lymphocyte mitoses were much
+more common in cellular outgrowths derived from non-neoplastic tissue   
+than they were in the outgrowths derived from cancer-bearing explants . 
+no differences were observed in the total number of nondividing         
+lymphocytes present in the non-neoplastic and neoplastic preparations . 
+the in ritro systems employed are promising tools for further           
+contributions to an already well established clinicopathologic          
+relationship between lymphocytes and cancer cells .                     
+  phase contrast and time-lapse cinephotomicrographic records were      
+obtained of the mitotic process and special attention was paid to the   
+structural details . certain findings were of particular interest,      
+namely the formation of a dense chromatin ring during telophase, the    
+variable occurrence of cytoplasmic bubbling, and the death of           
+lymphocytes during early metaphase (/exploding/ metaphase) . an         
+elaboration and discussion of these findings have been presented .      
+.I 210
+.W
+studies on transformation of syrian hamster cells by simian virus 40    
+(sv40).. acquisition of oncogenicity by virus-exposed cells apparently  
+unassociated with the viral genome .                                    
+  lines of syrian hamster lung and liver cells originally exposed as    
+primary cultures to large doses of sv40 exhibited increased growth rate,
+high plating efficiency, morphological transformation, and, in some     
+instances, oncogenic potential after unusually long intervals . in at   
+least two lines acquisition of oncogenic potential occurred             
+independently of morphological transformation . in none of a total of 11
+cell lines studied in detail was conclusive evidence for the presence of
+the sv40 genome obtained .                                              
+.I 211
+.W
+eye and kidney tissue reactions to heterologous anti-uveal antibodies . 
+  the uvea, lens capsule and kidney glomerulus in the albino wistar rat 
+have a common antigenic component(s) . the uvea and lens capsule in the 
+pigmented bovine eye also have a common antigenic component(s) . these  
+results were demonstrated by the immunofluorescence technique . the     
+common antigenic sites in the uvea were assumed to be the basement      
+membrane surrounding the vascular trees in the tissues . the possibility
+of the basement membrane participation as an antigenic source for       
+inducing sympathetic ophthalmia is discussed .                          
+.I 212
+.W
+experiments dealing with the role played by the aqueous humor and retina
+in lens regeneration of adult newts .                                   
+  1. these three groups of experiments involve approximately 140 eyes of
+adult newts, triturus v. viridescens . they were devised to examine     
+what, if any, role the aqueous humor plays during lens regeneration from
+the dorsal iris .                                                       
+  2. many daily injections of aqueous humor from normal eyes were made  
+in lentectomized eyes for as long as 96 days in some cases . as controls
+some lensless eyes were daily injected with holtfreter's solution . in  
+others aqueous humor was merely withdrawn .                             
+  3) procedures for the injection experiments are difficult to control .
+however, the most successful cases showed varying degrees of inhibition 
+and retardation of lens regeneration .                                  
+  4. pairs of eyes were united at large adjacent wound openings to      
+provide a common reservoir of aqueous humor bathing both lenses and     
+dorsal irises . in some cases the eyes were placed on the side of the   
+body . in others more successful unions were made by fusing a           
+transplanted eye to the right eye of a host .                           
+  5. approximately three months after operation one of two large lens   
+regenerates in a pair of perfectly fused eyes was removed . six weeks   
+later a new large lens regenerate reappeared in most of the             
+lentectomized units in the presence of the intact lens of the other unit
+  6. there is a strong possibility that the more than normal amount of  
+neural retina present provided a more powerful retinal factor for lens  
+regeneration than the inhibiting influence of the intact lens in the    
+environment .                                                           
+.I 213
+.W
+correlation between the mast cells and histamine content of the eye in  
+cattle .                                                                
+  the authors have examined the mast cell content of the eyes of cattle 
+and have established that most of the mast cells are contained in the   
+conjunctiva, the optic nerve and the ocular muscles,. fewer occur in the
+sclera and iris, and least in the ciliary body and choroid . cornea,    
+lens and retina do not contain mast cells . the histamine content of the
+ocular tissues and their mast cell contents generally run parallel .    
+however, the cornea is exceptional in that its histamine does not occur 
+in a bound state but in some form which is readily available to a mild  
+process of extraction (tyrode solution at 4 c) .                        
+.I 214
+.W
+studies in sickle cell anemia xxi. clinico-pathological aspects of      
+neurological manifestations .                                           
+  neurologic manifestations are frequent in patients who have sickle    
+cell disease . these manifestations may be the earliest presenting signs
+and symptoms and they are so variable that the patient may be           
+erroneously diagnosed as having conditions such as meningitis,          
+poliomyelitis, subdural hematoma, neoplasm, subarachnoid hemorrhage,    
+lead encephalitis, subacute bacterial endocarditis, and congenital      
+malformations of the brain . furthermore, development of these          
+manifestations cannot be predicted on the basis of the type of crisis   
+involved .                                                              
+  prognosis following neurological involvement is unpredictable, but    
+recurrent episodes, together with abnormal electroencephalographic      
+readings suggest a poor outcome . such patients die or are the victims  
+of rather severe neurological deficits .                                
+  neurological examination of these patients suggests diffuse           
+involvement of the cerebral hemispheres . examination of the            
+pathological material, however, often fails to reveal thromboses . the  
+striking findings are infarcts in the white matter and perivascular     
+hemorrhages .                                                           
+  the thesis that the abnormal neurological findings in these patients  
+are actually due to sickle cell disease is supported by the fact that   
+all such symptoms appear in association with clinical circumstances     
+known to induce sickling . these include surgery and anesthesia, fever  
+and infection .                                                         
+.I 215
+.W
+attenuation curves of the human eye under normal and pathological       
+conditions .                                                            
+  a method is described which allows the determination of /attenuation  
+curves/ of the human eye . those curves are obtained by plotting the    
+critical depth of modulation (cmd) as a function of the critical fusion 
+frequency (cff) . routine experiments were carried out for a 2 test     
+field showing a sinusoidal periodical variation of its luminance,       
+surrounded by an extensive area with a luminance equal to the average   
+luminance of the test field . attenuation curves were obtained for      
+normal observers under different experimental conditions and for a      
+number of patients . it is shown that this method affords us information
+which cannot be obtained by means of the classical methods for measuring
+the cff .                                                               
+.I 216
+.W
+central nervous system manifestations of periarteritis nodosa .         
+  in the 114 cases of pathologically proved periarteritis nodosa        
+reviewed, 53 patients (46 percent) had symptoms and signs of central    
+nervous system or cranial nerve involvement . thirty-nine patients had  
+both cerebral manifestations and neuropathy, 38 had neuropathy alone,   
+and 14 had only cerebral symptoms and signs .                           
+  the most common cerebral manifestation was that of mental derangement,
+usually an organic psychosis or confusional state . headache,           
+convulsions, blurred vision, vertigo, and sudden unilateral visual loss 
+were the most common symptoms referable to the central nervous system . 
+the most common abnormalities on examination were retinopathy,          
+hemiparesis, and signs of a brainstem lesion . there was no difference  
+in duration of life, after onset of disease, in those with and those    
+without central nervous system involvement .                            
+.I 217
+.W
+see-saw nystagmus an unusual sign of lesions near the third ventricle . 
+  a case of see-saw nystagmus in a child with craniopharyngioma and     
+bitemporal hemianopsia is described, and reference is made to previous  
+case reports . the basis for this curious sign is not clear, but the    
+site of the lesion must be considered to be in the region of the third  
+ventricle, since bitemporal hemianopsia is a necessary part of the      
+syndrome . the sign is not common but when present points to a lesion   
+near the third ventricle .                                              
+.I 218
+.W
+implications of gerstmann's syndrome .                                  
+  of 465 consecutive patients subjected to a standardized battery of    
+neuropsychological tests, 111 had one or more components of gerstmann's 
+syndrome . each of these 111 patients had some evidence of organic brain
+dysfunction in addition to gerstmann components . as the number of      
+gerstmann components increased, the responsible brain lesions tended to 
+be larger, more highly destructive of tissue, and to cause greater      
+neurological impairment . every patient with four gerstmann components  
+had associated evidence of severe impairment of brain functions and the 
+lesion or underlying disease was likely to compromise survival of the   
+patient . the syndrome is not to be regarded as an autonomous entity,   
+but merges with numerous other neurological deficits, notably dysphasia 
+in agreement with benton, we find no justification for singling out   
+the four gerstmann components as a separate syndrome, unless one is also
+prepared to recognize that any other arbitrary groups of concurrent     
+deficits are also separate syndromes .                                  
+  in at least three of 23 patients with all four gerstmann components,  
+the angular gyrus, as shown by necropsy examination, was not involved by
+the lesion . however, the probability that the left hemisphere contained
+a lesion increased with the number of gerstmann components, and the     
+probability of involvement of the left posterior parasylvian area also  
+increased with the increase in the number of gerstmann components . with
+two, three, or four gerstmann components, the lesions were never        
+restricted to the angular gyrus but tended to spread widely over the    
+parietal, temporal, and occipital lobes . as to localizing significance,
+gerstmann's syndrome has approximately the same degree of cogency as    
+dysphasia .                                                             
+.I 219
+.W
+alterations of visual evoked response in the presence of homonymous     
+visual defects .                                                        
+  the visual evoked response (ver) was studied by means of computer     
+averaging in 32 normal subjects, nineteen patients without visual       
+disorder but with unilateral cerebral lesions, and 30 patients with     
+homonymous visual field defects . an early negative-positive-negative   
+complex was recorded between laterally placed occipital electrodes and a
+vertex reference . latencies were prolonged in the hemianopic patients .
+some amplitude asymmetries were noted in the brain-damaged controls but 
+were more pronounced in patients with visual defects . the recordings in
+the hemianopic patients were differentiated from those in both control  
+groups by the presence of aberrant wave forms (2 cases),. prolonged     
+latencies (3 cases),. and amplitude depression of greater then 50 per   
+cent of the positive wave on the abnormal side (16 cases) . pathologic  
+verification was obtained in three patients and demonstrated a          
+correspondence between alterations in the ver and the presence of       
+lesions of the geniculocalcarine system .                               
+.I 220
+.W
+cerebro-vascular lesions and livedo reticularis .                       
+  extensive livedo reticularis has been observed in one man and five    
+women who have suffered from a series of cerebrovascular lesions . the  
+neurological disabilities have included aphasia, homonymous hemianopia  
+and hemiplegia but have been remarkable for the degree of recovery which
+has occurred . it is presumed that the livedo which has been found in   
+only one patient without neurological lesions is related to the         
+cerebrovascular incidents . investigations have failed to show any      
+evidence of polyarteritis nodosa, disseminated lupus erythematosus and  
+thrombocythaemia and an arteritis of unrecognized type is suggested as  
+the etiology .                                                          
+.I 221
+.W
+seesaw nystagmus case report elucidating the mechanism .                
+  the eighth recorded case of see-saw nystagmus is reported . features  
+in this case are analyzed and evidence to suggest that this form of     
+nystagmus is ocular rather than central in origin is offered . see-saw, 
+nystagmus, unlike true vertical nystagmus, is not of itself indicative  
+of a brain stem lesion .                                                
+.I 222
+.W
+supratentorial paratransversal meningiomas .                            
+  the author describes 6 cases of supratentorial paratransversal        
+meningioma . clinically, the development of these tumours is slow and   
+the chief neurological signs are.. homonymous hemianopia, contralateral 
+hemiparesis and speech disorders when the tumour is on the dominant side
+radiologically, carotid angiography permits identification of these   
+tumours easily . surgically, the tumours were removed completely and,   
+although in 2 cases the transverse sinus had to be resected, this caused
+no damage . one patient, who was operated on twice and whose            
+histological specimen on the second occasion showed that the meningioma 
+was malignant, died seven months after the second operation . the other 
+patients are well and free of neurological deficits from 1 to 12 years  
+after operation .                                                       
+.I 223
+.W
+life span and lymphoma-incidence of mice injected at birth with spleen  
+cells across a weak histocompatibility locus .                          
+  newborn cogenic c h mice receiving injections across a weak (h-i h-i )
+histocompatibility barrier exhibited life-shortening and a high         
+incidence of lymphomatous disease during mid-adult life . in control    
+experiments (h-i h-i ) lymphomatous disease developed much later life . 
+both mouse strains when not given injections as new-borns manifest only 
+a negligible incidence of lymphoma or leukemia . these findings are     
+variably interpretable in terms of oncogenic virology, and of the       
+immunologic theories of aging and cancer by analogy with transplantation
+disease mechanisms .                                                    
+.I 224
+.W
+the heterogeneity of rheumatoid factors and the genetic control of      
+polypeptide chains of globulin .                                        
+  (1) evidence is presented that most rf proteins are heterogeneous in  
+their antigenic composition although occasional ones are homogeneous and
+thus resemble the paraproteins .                                        
+  (2) studies pointing out some of the difficulties encountered with    
+currently available preparations of polypeptide chains in the genetic   
+mapping of globulin are described .                                     
+.I 225
+.W
+progynon, a depot preparation with oestrogenic action, in the treatment 
+of prostatic carcinoma .                                                
+  a derivative of a natural oestrogen -dash oestradiol undecylate,      
+progynon-depot -dash was given in depot form by injection to a group of 
+patients with prostatic carcinoma . the study showed progynon-depot to  
+reduce the excretion of androgen metabolites in the urine . the results 
+suggest that the preparation reduced the testicular production of       
+androgens but probably not that of the adrenal glands . the depot effect
+and clinical action of the preparation are described briefly .          
+.I 226
+.W
+/urinary 17-ketosteroid excretion study in radiation induced menopause  
+in carcinoma breast./ .                                                 
+  (1) urinary 17-ketosteroid estimation results are given in 11 patients
+subjected to radiotherapeutic sterilisation .                           
+  (2) a high dosage level was used in all these cases .                 
+  (3) results indicate some suppression of ovarian function within 2    
+weeks of sterilisation .                                                
+.I 227
+.W
+prostatic cancer of a young person with primary hypogonadism .          
+  the prostatic carcinoma of a 34 years old man with primary            
+hypogonadism was presented . endocrine environment of relative          
+estrogenic excess is suspected to have played the leading part in       
+pathogenesis of this case .                                             
+.I 228
+.W
+urinary excretion of neutral 17-ketosteroids and pregnanediol by        
+patients with prostatic cancer and benign prostatic hypertrophy .       
+  urinary neutral 17-ketosteroid fractions and pregnanediol excreted by 
+21 patients with prostatic cancer, 17 patients with benign hypertrophy, 
+and 59 clinically well subjects were assayed to determine whether       
+differences exist .                                                     
+  patients with prostatic cancer and those with benign hypertrophy      
+excreted significantly less androsterone than the clinically well       
+subjects . a disproportionately lower level of androsterone than        
+etiocholanolone resulted in a significantly lower                       
+androsterone/etiocholanolone ratio in both groups .                     
+  the specificity of the findings is discussed . the lower levels of    
+androsterone excreted by patients with benign hypertrophy were          
+associated with an extended period of hospitalization . patients        
+hospitalized less than 5 days excreted androsterone at levels not       
+significantly different from the clinically well subjects .             
+  lower levels of androsterone excreted by patients with prostatic      
+cancer were not explained by the presence of metastasis, the duration of
+hospitalization, loss of appetite, or other definable differences, when 
+each was considered singly . the possible interrelationships of clinical
+differences prevent assigning lower excretion levels to the cancer state
+alone .                                                                 
+.I 229
+.W
+i. urinary excretion of neutral 17-ketosteroids and pregnanediol by     
+patients with breast cancer and benign breast disease .                 
+  urinary levels of neutral 17-ketosteroid fractions and pregnanediol   
+excreted by 114 women, 56 premenopausal and 58 postmenopausal, were     
+determined . subjects studied were included in 4 premenopausal groups   
+(breast cancer 6, benign breast disease 18, sick control 8, well control
+24) and 3 postmenopausal groups (breast cancer 21, sick control 17, well
+control 20) .                                                           
+  levels of androsterone and etiocholanolone excreted by premenopausal  
+patients with breast cancer were significantly less than levels excreted
+by other premenopausal groups, and they did not differ significantly    
+from levels excreted by postmenopausal patients with breast cancer .    
+  disproportionately lower levels of the 11-desoxy-17-ketosteroids than 
+11-oxy-17-ketosteroids excreted by premenopausal patients with cancer   
+resulted in significantly lower ratios than those found in other        
+premenopausal groups . ratios associated with premenopausal patients    
+with cancer did not differ significantly from those of postmenopausal   
+patients with cancer .                                                  
+  lower levels of androsterone and etiocholanolone were not explained by
+debilitation .                                                          
+.I 230
+.W
+the morphologic demonstration of an alveolar lining layer and its       
+relationship to pulmonary surfactant .                                  
+  the presence of an alveolar lining layer was histologically           
+demonstrated in animal lungs by ultraviolet microscopy . this layer     
+appeared as a thin fluorescent line at the air-tissue interface .       
+  the fluorescent lining layer could be abolished from lung sections by 
+extraction with chloroform..methanol and was diminished by digestion    
+with cl.welchii a-toxin lecithinase, suggesting that the structure was a
+lecithin-containing lipid . an alveolar lining structure was also       
+identified by the use of phosphatide and polysaccharide stains,         
+suggesting that the lipid was a phosphatide, but that a                 
+mucopolysaccharide component might also be present .                    
+  bilateral cervical vagotomy resulted in diminution or loss of the     
+fluorescent alveolar lines and abnormal surface tension properties of   
+lung extracts . this suggested that the presence of the fluorescent     
+material was associated with the surface activity of the lung .         
+  alveolar lining structure could not be demonstrated by electron       
+microscopy, even with special staining techniques .                     
+.I 231
+.W
+experimental emphysema basis, review, and critique .                    
+  normal lung structure has been described as a rich capillary bed in a 
+finely partitioned airspace with unique surface-active effects .        
+morphologic criteria of the lesions of human pulmonary emphysema include
+evidence of destruction, residual vascular remnants, the absence of     
+significant amounts of fibrosis, and altered conducting airways without 
+anatomic obstruction .                                                  
+  experimental studies relating to the pathogenesis of emphysema have   
+been reviewed and critically evaluated . stress has been placed on the  
+necessity to control the biologic factors influencing the action of any 
+specific etiologic agent .                                              
+.I 232
+.W
+alveolar lining cells and pulmonary reticuloendothelial system of the   
+rabbit .                                                                
+  complete freund's adjuvant was injected intravenously into rabbits and
+the cellular response in the lungs was investigated . the population of 
+cells within the alveolar spaces was contributed to by monocytes of the 
+circulation, mesenchymal cells of the alveolar walls and epithelial     
+lining cells of the alveoli . the abnormal epithelial lining during the 
+proliferative phase was the result of an increase in size and number of 
+the cells that line the normal alveoli . as healing progressed, a       
+structurally normal alveolar lining was found .                         
+.I 233
+.W
+time course of changes in surface tension and morphology of alveolar    
+epithelial cells in co2-induced hyaline membrane disease .              
+  atelectasis and hyaline membranes produced by exposure of guinea pigs 
+to 15 percent co2 were found to be associated with disappearance of     
+lamellar bodies in the large alveolar lining cells (granular            
+pneumocytes) and an associated decrease in surfactant as indicated in   
+the rise of minimal surface tension of the lungs . this process is      
+limited to the uncompensated phase of respiratory acidosis and is       
+reversed during the compensatory phase . the parallel time course in    
+changes of surface tension and alterations of lamellar bodies in the    
+granular pneumocytes provides additional evidence for the identification
+of the latter as the cells responsible for the secretion of surfactant .
+.I 234
+.W
+cortisone and atypical pulmonary /epithelial/ hyperplasia further       
+studies including electron microscopy, tissue culture, animal           
+transplantation and long term observations .                            
+  previous work in rabbits showed that there was a proliferation of     
+cells within pulmonary alveoli following intratracheal injection of     
+nitric acid and that the proliferation was greatly enhanced by the      
+administration of cortisone to the animals .                            
+  electron microscopic observations indicated that these were           
+morphologically large alveolar lining cells . tissue culture studies of 
+damaged and normal lung with and without cortisone showed no evidence   
+for a direct effect of the drug on the proliferation of these cells .   
+  this observation, together with the knowledge that fibrosis was       
+delayed in the cortisone treated animals, support the thesis that the   
+cortisone effect is an indirect one . transplantation of damaged lung   
+tissue to hamster cheek pouch failed to reveal evidence of growth .     
+within the period of observation (99 to 420 days) there was evidence    
+that the proliferation subsided considerably and no neoplasms developed 
+.I 235
+.W
+some observations on myelin-glial relationships and on the etiology of  
+the cerebrospinal fluid exchange lesion .                               
+  the present paper presents cytological observations from developing   
+kitten spinal cord and from spinal cord white matter reacting to injury 
+it also presents some recent experiments on the mechanism of etiology 
+of the csf exchange lesion . drawing on these various sources, the      
+authors propose specific functions for some of the cell types present in
+spinal cord white matter .                                              
+.I 236
+.W
+lactate and pyruvate in the brain of rats during hyperventilation .     
+  experiments on anesthetized and curarized rats under artificial       
+ventilation show that during hyperventilation lactate and pyruvate are  
+markedly increased both in blood and in brain . the lactate/pyruvate    
+ratio which remains in blood the same as in control conditions, is      
+systematically decreased in brain . during hypoxia (ventilation with 7  
+oxygen in nitrogen) lactate rises markedly in blood and in brain . the  
+lactate/pyruvate ratio which is strongly increased in blood shows a     
+small rise in brain . these observations could indicate that a different
+mechanism is responsible for the rise of lactate in brain during hypoxia
+and hyperventilation . the important augmentation of lactate in brain   
+during hyperventilation can give an explanation for the delayed rise    
+which is seen in the lactate level in cerebrospinal fluid in these      
+conditions .                                                            
+.I 237
+.W
+cisternal fluid oxygen tension in man .                                 
+  using a beckman micro-oxygen-electrode we have studied the oxygen     
+tension simultaneously in the cisterna magna, the internal jugular vein 
+and in arterial blood under various conditions . the results suggest    
+that the cisternal oxygen tension to some degree reflects the average   
+oxygen tension of the surrounding brain tissue and besides reflecting   
+the available free oxygen to the brain it registrates changes of short  
+duration in the cerebral blood flow .                                   
+.I 238
+.W
+ventricular septal defect with prolapsed aortic valve and outflow tract 
+obstruction .                                                           
+  a case of ventricular septal defect combined with aortic valvular     
+lesion and infundibular pulmonic stenosis is described . the right      
+coronary cusp of the aortic valve, protruding through the ventricular   
+septal defect, was demonstrated by right ventricular angiocardiography  
+as a polyp-like mass in the right ventricular outflow tract . cardiac   
+catheterization and angiocardiography showed progressive right          
+ventricular outflow obstruction .                                       
+.I 239
+.W
+functional adaptations of the right ventricular outflow tract in        
+congenital heart disease .                                              
+  functional adaptations in the right ventricular outflow tract have    
+been discussed in relation to the development of acquired /pulmonary    
+stenosis/ .                                                             
+  it is concluded that physical forces as well as structural            
+abnormalities may greatly influence both the clinical picture and the   
+life history of many patients with congenital heart lesions .           
+  the importance of further serial haemodynamic studies to provide a    
+fuller understanding of the natural course of many lesions is stressed, 
+so that better advice about prognosis and the optimal time for surgical 
+treatment may be given .                                                
+.I 240
+.W
+mitral atresia associated with pulmonary venous anomalies .             
+  pulmonary venous anomalies were observed in 5 among 29 specimens with 
+mitral atresia . in 4 of these 5 the anomalous pulmonary veins took the 
+form of anomalous pulmonary venous connexion . in the remaining case the
+pulmonary venous anomaly was represented by cor triatriatum . in 3      
+(group i), mitral atresia and premature closure of the foramen ovale    
+coexisted . the anomalous pulmonary venous connexions in this group     
+provided collateral routes for the flow of pulmonary venous blood, and  
+can be understood as developing en response to obstruction at the       
+foramen ovale when the mitral valve is atretic . in the remaining 2     
+(group ii) no such causative factor could be invoked . in one of the    
+latter group total anomalous pulmonary venous connexion coexisted with a
+common atrium . in the other, cor triatriatum coexisted with a patent   
+foramen ovale .                                                         
+  pulmonary venous obstruction occurred in each of the 5 cases .        
+.I 241
+.W
+basal metabolic rate after cardiovascular surgery .                     
+  the basal metabolic rate and respiratory equivalent of patients were  
+determined during 8 days of convalescence from cardiovascular surgical  
+operations performed with or without cardiopulmonary bypass . the       
+results were compared in patients who had undergone operation for       
+different diseases . metabolic rate in the majority of cases was        
+increased but was commensurate with body temperature . some patients,   
+particularly those requiring open operation on the aortic valve, had    
+raised metabolic rates which could not be explained solely by pyrexia . 
+  all types of patients in this series had elevated respiratory         
+equivalents which persisted throughout convalescence . these equivalents
+were greater in patients treated with cardiopulmonary bypass than in    
+patients treated without bypass .                                       
+.I 242
+.W
+surgical treatment of ventricular septal defect .                       
+  the surgical technique of closure of ventricular septal defects in 80 
+cases (37 cases of isolated defects and 43 cases of tetralogy of fallot)
+is discussed in the light of the follow-up results . the use of a patch 
+for closure has reduced the incidence of recurrence to 4 percent, com-  
+pared with 18 percent when direct suture was performed . the incidence  
+of heart block also decreased from 15 percent, when direct suture was   
+used, to 4 percent with a patch . the transatrial approach is preferred 
+for isolated ventricular septal defects,. the ventricular approach is   
+preferred for cases with tetralogy of fallot . in cases combined with   
+aortic insufficiency only small defects are closed through the aorta .  
+larger defects are closed in the usual way at a first stage operation,  
+and a total valve prosthesis is introduced at a second operation . there
+was an operative mortality of 6 percent in isolated ventricular septal  
+defects, compared with 27 percent in cyanotic patients with tetralogy of
+fallot .                                                                
+.I 243
+.W
+some hemodynamic observations in congenital heart disease with special  
+reference to pressure curves in ductus arteriosus .                     
+  hemodynamic observations in 100 congenital heart disease cases are    
+made based on data in the department of pediatrics, kyoto university    
+between may 1961 and december 1963 . we have classified these 100 cases 
+according to the malformation from the hemodynamic view point . our     
+cases were classified into the following groups .                       
+  (1) ventricular septal defect                             35 cases    
+      small ventricular septal defect                       20          
+      moderate ventricular septal defect                     9          
+      marked ventricular septal defect                       4          
+      ventricular septal defect with pulmonary stenosis      2          
+  (2) patent ductus arteriosus                              21          
+  (3) atrial septal defect                                  19          
+      atrial septal defect                                  14          
+      atrial septal defect with pulmonary stenosis           5          
+  (4) pulmonary stenosis                                     5          
+  (5) tetralogy of fallot                                   14          
+  (6) aortic stenosis                                        3          
+  (7) aortic insufficiency                                   3          
+      aortic insufficiency with ventricular septal defect    2          
+      aortic insufficiency with pulmonary stenosis           1          
+  in sonre small ventricular septal defect, we tried the vasoactive     
+drugs . phenylephrine was injected slowly into the right ventricle via  
+the catheter, a rapid rise in femoral arterial pressure associated with 
+bradycardia and intensiffication of the systolic murmur was observed .  
+after the administration of amyl nitrite, a rapid fall in femoral       
+arterial pressure associated with tachycardia and softening of the sys- 
+tolic murmur was observed .                                             
+  in patent ductus arteriosus, when the cardiac catheter is withdrawn   
+slowly from the aorta into the pulmonary artery, the outstanding        
+pressure curve is recorded in ductus arteriosus . the systolic pressure 
+curve in the ductus arteriosus is the same as the systolic pressure in  
+the aorta and the diastolic pressure curve in the ductus arteriosus has 
+a diastolic dip followed by a late diastolic pressure peak .            
+  in patent ductus arteriosus, when the cardiac catheter is withdrawn   
+from the left pulmonary artery to the right ventricle, the pressure     
+curve reveals a considerable characteristic rise in pulmonary arterial  
+pressure which is regarded as an effect of the transmission of systemic 
+pressure through the ductus arteriosus .                                
+.I 244
+.W
+a study on the direction of inscription of the vectorcardiographic      
+t-loop in left and right ventricular hypertrophy .                      
+  (1) frank lead vectorcardiogram was recorded in 30 normal persons and 
+in 323 cases with hypertension and acquired and congenital heart disease
+the t-loop was classified into 8 types according to the directions of 
+inscription in 3 planar projections . frequently observed types were    
+examined with the direction of the maximal t vector .                   
+  (2) in majority of normal cases, the t-loop was inscribed             
+counterclockwise in horizontal and clockwise in sagittal planes .       
+  (3) in left ventricular hypertrophy, abnormal inscription of the      
+t-loop was observed with abnormal rightward and superior deviation of   
+its maximal vector and the t-loop oriented more than 120 in horizontal  
+plane was usually accompanied by abnormal inscription . percentage of   
+abnormal inscription was higher in cases with cardiac complaints .      
+  (4) in right ventricular hypertrophy, directional change of the t-loop
+was relatively small but changes in inscription of it were common . the 
+t-loop was always inscribed abnormally in cases with abnormal           
+inscription of the qrs-loop .                                           
+  (5) the concept of the polar vector was found to be valuable in       
+studying the inscription and the direction of the t-loop . significance 
+of changes in inscription of the t-loop was discussed .                 
+.I 245
+.W
+pulmonary vascular plexiform lesion pathogenetic studies .              
+  an attempt was made to test the theory that in pulmonary arterial     
+hypertension, the plexiform lesion is a jet lesion beyond points of     
+arterial stenosis resulting from nonspecific intimal thickening .       
+  in 39 subjects with such congenital communications as are associated  
+with pulmonary arterial hypertension, the lungs were studied            
+histologically . in each, there was an additional element of pulmonary  
+venous obstruction . it is likely that in the absence of pulmonary      
+venous obstruction, adult patients with only the congenital             
+communication would have developed plexiform lesions .                  
+  in the three adult patients in the study, no plexiform lesions were   
+identified . among the 36 infants or children, one subject showed       
+plexiform lesions, a 53-day-old girl with mitral atresia, ventricular   
+septal defect, and patent ductus arteriosus .                           
+  while the findings in the three adult subjects support the theory     
+regarding the genesis of plexiform lesions, the findings in the one     
+infant with plexiform lesions appear to contradict it .                 
+.I 246
+.W
+renal hemosiderosis (blue kidney) in patients with valvular heart       
+disease .                                                               
+  anatomic evidence of intravascular hemolysis, i.e., renal             
+hemosiderosis, was found at necropsy in 4 of 132 patients who died of   
+severe valvular heart disease . the aortic valve in each of these 4     
+patients was heavily calcified, immobile, and portions of the calcific  
+deposits were in direct contact with the blood . hemolysis in each      
+patient was attributable to direct trauma to erythrocytes traversing the
+stenotic valve, and the frequency of trauma was increased by an         
+associated regurgitant flow . renal hemosiderosis was not observed in   
+any patient with isolated mitral valve disease, or in those with        
+combined mitral and tricuspid valve malformations .                     
+.I 247
+.W
+tumor scanning with radioactive cesium .                                
+  fourteen patients with cancer were scanned 10 minutes to 48 hours     
+after injection of radioactive cs. and satisfactory scans of the tumors 
+were obtained in seven . positive scans were obtained in large,         
+superficial tumors, in a pulmonary lymphoma, and in a carcinoma of the  
+upper third of the esophagus . the negative scans were all in abdominal 
+tumors . correlations were made with data obtained from external        
+counting and by well scintillation counting of biopsy specimens . two   
+modes of uptake are suggested.. (a) early uptake due to vascularity and 
+probably not proportional to stable cesium content.. and (b) a later    
+uptake based upon greater alkali metal content of tumors than of normal 
+tissue .                                                                
+.I 248
+.W
+lung scanning with colloidal risa .                                     
+  the use of colloidal risa injected intravenously in a particle size of
+10.50 microns followed by lung photoscanning offers a practical,        
+atraumatic method of visualizing pulmonary artery occlusions in the dog 
+the fact that the particles have a relatively short biological        
+half-life appears to decrease the radiation dose delivered and the      
+duration of occlusion of pulmonary capillaries as compared to ceramic   
+microspheres . work is in progress to apply this technique to the study 
+of pulmonary artery occlusion in the human .                            
+.I 249
+.W
+multivariate comparison of results of treatment in chronic lymphocytic  
+and chronic granulocytic leukemia .                                     
+  the results of several clinical trials have been analyzed by          
+multivariate procedures which rely completely on laboratory findings and
+do not involve scoring specific changes or subjective evaluations .     
+statistically significant differences among drugs after three months of 
+therapy were demonstrated . a relationship between the multivariate     
+method and the subjective evaluation was demonstrated which indicates   
+that if the subjective evaluation is an estimate of the physiologic     
+state or prognosis of the patient, then so are the completely objective 
+techniques used here .                                                  
+.I 250
+.W
+oxacillin--apparent hematologic and hepatic toxicity .                  
+  bone marrow depression and hepatocellular dysfunction developed in an 
+allergic woman receiving 3.0 gm. of sodium oxacillin by mouth daily for 
+nearly three months . discontinuing the drug and administering          
+corticosteroids and antibiotics resulted in apparent recovery . the     
+toxic potentialities of oxacillin should be appreciated .               
+.I 251
+.W
+drugs and neonatal jaundice .                                           
+  this paper is not intended as an exhaustive review of bilirubin       
+metabolism nor of the many factors which may result in exaggerated      
+physiologic jaundice.. for such a review the interested reader is       
+referred to the excellent articles by zuelzer and brown . brief mention 
+has been made of the mechanism by which certain drugs may contribute to 
+the development of hyperbilirubinemia . a few drugs, the water-soluble  
+vitamin k derivatives, sulfasoxazole (gantrisin), the salicylates, and  
+novobiocin have been unequivocally shown to affect adversely the newborn
+infant's ability to handle bilirubin . in time other compounds will     
+definitely be incriminated .                                            
+  it is important to remember that the administration of a drug to a    
+mother just prior to delivery may result in appreciable concentrations  
+of the compound in the infant's serum, and that drugs administered to   
+the nursing mother may be excreted in breast milk and thereby absorbed  
+by the infant . careful consideration of the drugs given not only to the
+newborn but also to the mother is therefore essential if we are to avoid
+what may be termed iatrogenic hyperbilirubinemia .                      
+.I 252
+.W
+amputation in patients over 80 years of age .                           
+  although patients over 80 years of age can be expected to have poor   
+physical reserve and many co-existing diseases, our observations show   
+that nevertheless they can be subjected to surgical procedures without  
+undue mortality . the mortality rate can be maintained at a minimum if  
+the surgeon considers the factors that contribute to its increase in the
+elderly . this necessitates.. 1) careful evaluation of the patient and  
+treatment of any pre-existing or co-existing disease, 2) proper control 
+of electrolytes, 3) avoidance of infection, 4) prompt correction of any 
+postoperative hypotension, 5) postoperative pulmonary ventilation and   
+tracheal cleansing, and 6) avoidance of prolonged surgical procedures . 
+  a group of 26 patients past the age of 80 years underwent amputation  
+of a lower extremity, without undue mortality (9 deaths) .              
+  lumbar sympathectomy is not considered advisable in these aged pa-    
+tients .                                                                
+  the standard mid-thigh operation can be questioned in the younger     
+patient, but it is the procedure of choice for removal of a gangrenous  
+extremity in patients over 80 years of age .                            
+.I 253
+.W
+radical operation for ventricular septal defect in infancy .            
+  ventricular septal defect is the most common congenital anomaly of the
+heart in infancy, and has a poor prognosis . we have operated upon 18   
+infants all under one year of age for ventricular septal defect . there 
+has been successful repair in 16 cases .                                
+  at present, hypothermia with a surface cooling method has proved to be
+superior to the artificial heart-lung machine because of the simplicity 
+and the good operative results with its use . in addition, early        
+operation during the infantile period will cause less psychological     
+impact on infants . these advantages are sufficient for us to advocate  
+radical operation of ventricular septal defect in infancy, even         
+including the severely ill children .                                   
+.I 254
+.W
+specific suppression of tumor growth by isolated peritoneal macrophages 
+from immunized mice .                                                   
+  methods were presented by which macrophages may be isolated from the  
+peritoneal cell population of mice . these cells, and for comparison    
+peritoneal lymphocytes and lymph node cells, were tested for immunologic
+activity by injecting a mixture of the test cells and tumor cells       
+subcutaneously into irradiated mice . each cell type, when obtained from
+immunized mice, was capable of suppressing the growth of the specific   
+tumor cells . the results are discussed with respect to a possible      
+specific immunologic function for macrophages in graft rejection .      
+.I 255
+.W
+effect of heterologous antiserum and complement on glycolysis of tumor  
+cells .                                                                 
+  the effect of heterologous antiserum and complement on glucose        
+metabolism of rat ascites tumor cells was examined to clarify the       
+mechanism of the cytotoxic effect of antibody .                         
+  1. lactate-production of the target cells was inhibited by the        
+cooperation of antiserum and complement, while no inhibition was        
+observed when the cells were subjected to either antiserum or complement
+alone . the inhibition of lactate-production was observed under both    
+acrobic and anacrobic conditions . no effect of the antiserum and       
+complement was observed on the oxygen consumption of the cells .        
+  2. the amount of antiserum necessary for the inhibition of            
+lactate-production of the cells was determined in the presence of a     
+definite amount of complement, and it was found that the degree of      
+inhibition was not in parallel with the concentration of antiserum      
+beyond a certain threshold . on the other hand, a parallelism was       
+observed between the amount of complement and the rate of inhibition of 
+lactate-production when different amounts of complement were added to a 
+definite amount of antiserum .                                          
+  3. similar inhibitory effects of the antiserum and complement on      
+lactate-production of the cells from glucose, fructose-1, 6-diphosphate,
+and pyruvate suggested that the inhibition occurred toward the final    
+step of glycolytic process of the cells .                               
+.I 256
+.W
+soluble tissue antigens in human brain tumor and cerebrospinal fluid .  
+  an a-2 globulin antigen present in human glioblastomas and            
+immunologically identical with antigens present in human brain, liver,  
+spleen, and metastatic carcinoma cyst fluid has been described . this   
+protein antigen is not present in plasma, wbc, or normal csf . it has   
+been demonstrated in the csf of three of 27 patients with tumors of the 
+central nervous system . when present, it may represent a specific      
+tissue protein fraction contributed by either the tumor itself or the   
+adjacent cns tissue . the major protein components of normal and        
+abnormal csf are derived from, or, at least, antigenically identical to,
+the plasma proteins .                                                   
+.I 257
+.W
+the apparent immunofluorescence of tissue mast cells .                  
+  both rat mast cells and rat cosinophils exhibited fluorescence in blue
+violet light after treatment with fitc-conjugated rabbit anti-rat       
+g-globulin and in each cell this fluorescence was immunologically       
+nonspecific .                                                           
+  whereas cosinophils fluoresced after treatment with fluorescein alone,
+mast cells fluoresced only after treatment with a protein conjugate     
+containing g-globulin .                                                 
+  the phenomenon was observed in cells from different organs and the    
+fluorescence was seen to be associated with the cytoplasmic granules    
+normally present in these cells .                                       
+.I 258
+.W
+the determinants of cerebrospinal fluid po2 the effects of oxygen and   
+carbon dioxide breathing in patients with chronic lung disease .        
+  the lumbar cerebrospinal fluid po2 of some hypoxemic hypercapnic      
+patients with chronic lung disease is the same as that of patients      
+without chronic lung disease . breathing 95 oxygen with 5 carbon dioxide
+increased lumbar cerebrospinal fluid po2 more than breathing 95 oxygen  
+with 5 nitrogen . the change in cerebrospinal fluid po2 is closely      
+related to the change in arterial pco2, and this relationship is similar
+to the relationship between arterial pco2 and cerebral blood flow in    
+patients with and without hypercapnia . interpretation of these         
+observations must be qualified by the following.. cisternal             
+cerebrospinal fluid po2 differs from lumbar cerebrospinal fluid po2 in  
+its response to breathing oxygen with carbon dioxide,. regulation of    
+blood flow to the spinal cord and nerve roots is not known to be        
+comparable to that of the brain,. and factors other than blood flow may 
+have contributed to the changes of cerebrospinal fluid po2 .            
+.I 259
+.W
+the behavior of lymphocytes in primary explants of human lung cancer in 
+vitro .                                                                 
+  the activity of lymphocytes within outgrowths from explanted tissue   
+fragments of 20 human lung cancers has been studied . the study included
+cancer-bearing tissue explants from all cases and noncancerbearing lung 
+tissue from 4 of the 20 cases . five major categories of lymphocytic    
+behavior were derived from the study, namely.. (1) emigration and       
+migration of lymphocytes from the explant,. (2) clustering of           
+lymphocytes around /target/ cells,. (3) ameboid transformation of       
+lymphocytes,. (4) lymphocytic congregation,. and (5) emperipolesis .    
+criteria for these different lymphocytic activities have been amplified 
+or introduced .                                                         
+  findings of particular interest were.. (1) the frequency of both via  
+ble and nonviable lymphocytes within the vacuoles of other cells . this 
+observation is considered to be an absolute criterion for the recogni-  
+tion of emperipolesis . a subsequent /inclusionbody/ appearance of the  
+dead lymphocytes has been observed . (2) the intimate relationship of   
+ameboid forms of lymphocytes to selected cells, resulting in a          
+juxtanuclear and frequently unipolar crowding of one cell by numerous   
+lymphocytes while nearby cells were totally devoid of ameboid           
+lymphocytes . reasons are given to support the impression that this     
+phenomenon is re lated to sensitization . there is also the possibility 
+that the phenomenon may indicate that the lymphocyte is /conditioned/ . 
+(3) the apparent entry of the lymphocyte into the cell has been recorded
+by timelapse cinematography .                                           
+  a lymphocyte relationship to cancer cells was infrequently found      
+although explants of 15 of the 20 cases produced identifiable cancer    
+cells and lymphocytes emigrated from the explants of all 20 cases . it  
+is not apparent from this limited study whether this is a significant   
+finding .                                                               
+.I 260
+.W
+ventricular septal defect with aortic insufficiency a clinical and      
+hemodynamic study of 18 proved cases .                                  
+  eighteen patients with the combination of ventricular septal defect   
+and aortic insufficiency were studied . nine also had infundibular      
+pulmonary stenosis . seventeen were treated by open-heart operations .  
+  the physical findings were those of a typical ventricular defect      
+murmur and thrill together with an aortic insufficiency blow and a wide 
+pulse pressure . a systolic murmur at the upper left sternal border with
+thrill is strongly suggestive of the additional lesion of infundibular  
+pulmonary stenosis, but the presence or absence of infundibular         
+pulmonary stenosis was indicated most accurately at cardiac             
+catheterization and on inspection at operation . it was not of          
+sufficient severity for signs of additional right ventricular           
+hypertrophy to appear on the electrocardiogram .                        
+  retrograde aortography serves to demonstrate the severity of the      
+aortic regurgitation .                                                  
+  the problem of the surgical correction of these lesions will be the   
+subject of a separate communication .                                   
+.I 261
+.W
+radioisotope photoscanning as a diagnostic aid in cardiovascular disease
+a safe, simple method for diagnosing pericardial effusion and aneurysm .
+  radioisotope scanning is a safe, simple, and useful method for the    
+diagnosis of pericardial effusion and aortic aneurysm . the whole-body  
+radiation dose, approximately 25 millirads from 300 of i 131-sodium     
+iodipamide, is no greater than the dose received from a standard        
+posteroanterior chest roentgenogram or a blood volume determination .   
+there are no side effects or complications from the procedure, and it is
+well tolerated by the patient . the scan can be repeated at intervals to
+assess progress of the disease or response to treatment . cardiovascular
+scanning with radioactive isotopes can be recommended as a useful and   
+safe diagnostic tool .                                                  
+.I 262
+.W
+studies of hematology and bone marrow morphology in vitamin e-deficient 
+pigs .                                                                  
+  forty-four pigs were used in two experiments whose purpose was to     
+produce a deficiency of vitamin e . the anemia and changes in bone      
+marrow morphology occurring in the vitamin e-deficient state are        
+described . the hematologic disorders include low hemoglobin and        
+hematocrit values, leucocytosis and granulocytosis . nuclear            
+abnormalities were observed in the erythroid precursors in the bone     
+marrow, many of the cells being multinucleated . giant multinucleated   
+cells of megakaryocyte type were frequently found .                     
+.I 263
+.W
+significance of blood groups in homotransplantation of marrow in the dog
+  ten dogs were given 1,500 r whole-body irradiation and an infusion of 
+allogeneic marrow from a donor matched with respect to six erythrocyte  
+antigens . methotrexate was given to reduce secondary syndromes . four  
+dogs survived . in a similar experiment with 10 dogs, in which no effort
+was made to match donors and recipients, three dogs survived . it was   
+concluded that matching of donor and recipient for these six red cell   
+antigens did not increase significantly the longterm survival rate of   
+lethally irradiated dogs with allogeneic marrow grafts .                
+.I 264
+.W
+radioautographic studies of bone marrow lymphocytes in vivo and in      
+diffusion chamber cultures .                                            
+  radioautography with tritiated thymidine has been utilized to examine 
+the turnover rate and origin of small lymphocytes in the bone marrow of 
+the guinea-pig .                                                        
+  very few marrow lymphocytes were initially labeled by a single        
+injection of tritiated thymidine, but thereafter the number of labeled  
+lym phocytes rapidly increased to high maximum levels at 3 days .       
+analysis of the labeling curves and grain counts indicates that the     
+population of marrow lymphocytes is maintained in a dynamic steady state
+with an average turnover time of 3 days or less .                       
+  suspensions of bone marrow cells were isolated from the circulation   
+within intraperitoneal diffusion chambers after short-term labeling with
+tritiated thymidine in vivo . although very few small lymphocytes were  
+labeled when introduced into the diffusion chambers, a considerable     
+percentage became labeled during the subsequent culture period .        
+  tritiated thymidine was also administered intravenously whilst        
+excluded from one hind limb by the application of an occlusive          
+compression bandage for 20 minutes . very few labeled small lymphocytes 
+were found after 72 hours in the tibial marrow of the initially occluded
+limb, whereas the normal high percentage was labeled in the control     
+tibial marrow .                                                         
+  these experiments do not demonstrate any large-scale influx of small  
+lymphocytes from the blood stream into the marrow parenchyma . they     
+suggest that newly formed small lymphocytes appear in the marrow as a   
+result of the division of locally situated precursor cells, but the     
+mechanism of intramedullary lymphocytopoiesis is uncertain .            
+/transitional/ cells, intermediate in morphology between blast cells and
+small lymphocytes, synthesize dna and are actively proliferative, but   
+they do not appear to account fully for the rate of lymphocyte          
+production .                                                            
+  certain large, undifferentiated labeled cells appeared in the bone    
+marrow as a result of hematogenous migration . some implications of     
+these findings are discussed .                                          
+.I 265
+.W
+autoradiographic study on the origin and fate of small lymphoid cells in
+the dog bone marrow.. effect of femoral artery clamping during in vivo  
+availability of h3-thymidine .                                          
+  the origin and fate of small lymphoid cells in the dog bone marrow    
+were studied autoradiographically by observing the effect of clamping of
+the femoral artery during in vivo availability of h3-thymidine . heavily
+labeled small lymphoid cells appeared in the bone marrow of the clamped 
+leg 3 hours after injection of the tracer and increased in number up to 
+6 days . the labeling indices of these cells, however, were             
+significantly lower than those of control marrow . a possible           
+interpretation is that dog bone marrow contains two populations of small
+lympho id cells, one migrating into the marrow via the blood stream, the
+other originating from local precursor cells within the marrow . there  
+was no evidence for a transformation of migrated small lymphoid cells   
+into erythroblasts during the first 48 hours after injection of         
+h3-thymidine .                                                          
+.I 266
+.W
+the lymphocyte in guinea-pig bone marrow .                              
+  the structure and distribution of lymphocytes in the bone marrow of   
+normal 400 g guinea-pigs have been studied by means of light microscopy,
+electron microscopy, and radioautography . the study of structural      
+organization by all three techniques confirms the morphological identity
+of the marrow small lymphocytes with small lymphocytes in other         
+situations and affords added proof of the presence of a series of cells 
+transitional in appearance between small lymphocytes and blast cells .  
+unlike the small lymphocytes, transitional cells show evidence of dna   
+synthesis . marrow small lymphocytes and transitional cells are         
+diffusely scattered throughout the parenchyma, often situated in close  
+proximity to the sinusoidal endothelium . they are also found           
+characteristically concentrated within some of the sinusoids,. this is  
+termed /lymphocyte loading/ .                                           
+  the findings are discussed with particular reference to the possible  
+origin, interrelationship and fate of these cells .                     
+.I 267
+.W
+surgical treatment of atrial septal defect under hypothermia .          
+  the technique of inflow occlusion under 30 c. hypothermia was adopted 
+for direct visual correction in 133 consecutive cases of atrial septal  
+defect of the secundum variety and the associated anomalies .           
+  the use of extracorporeal circulation combined with hypothermia was   
+reserved for the repair of two cases of ostium primum defects .         
+  the over-all operative mortality was 4 .                              
+  post-operative evaluation showed that the results have been good in   
+almost all patients, including those with pulmonary hypertension .      
+  since an ostium primum defect requires cardio-pulmonary bypass for its
+closure, the pre-operative recognition of the defect is highly desirable
+in the selection of patients for operation and in planning the procedure
+itself .                                                                
+  the information derived from the clinical examination and appropriate 
+diagnostic studies has been found to be consistently accurate in the    
+pre-operative differentiation of the primum from the secundum defect .  
+therefore, the unexpected discovery of a primum defect at operation was 
+not a problem .                                                         
+  in our experience, open-heart surgery under 30 c. hypothermia for the 
+repair of an atrial septal defect of the secundum type and the          
+associated anomalies is a safe and practical technique and effectively  
+corrects the anomaly with minimal risk .                                
+.I 268
+.W
+internal cooling for general hypothermia .                              
+  a further presentation is offered on the advantageous use of          
+intragastric temperature control as an adjunct in general hypothermia . 
+a device is described which accomplishes this end with no encountered   
+deleterious side effects, minimal technical involvement, and minor      
+expense . observations are recorded on rates of temperature change      
+according to sex, weight, and type of surgery performed .               
+.I 269
+.W
+late effects of regional renal hypothermia .                            
+  in summary, one can safely conclude that no deleterious effects were  
+created in dogs observed over a period of 3 years following renal       
+ischemia of 6 hours' duration protected by hypothermia . the blood      
+pressure failed to climb, there was no evidence of azotemia, and careful
+microscopic studies failed to reveal histological evidence of renal,    
+vascular or cardiac damage . renal function, as demonstrated by         
+creatinine and pah, was preserved and there was no delay in wound       
+healing .                                                               
+.I 270
+.W
+mesenteric vascular response to hypothermia .                           
+  1. total and segmental resistances were studied in the mesenteries of 
+37 dogs, and the effects of hypothermia, changes in blood viscosity and 
+epinephrine on these resistances were compared .                        
+  2. cooling to 15 c. caused an increased mesenteric resistance in 94   
+per cent of animals with approximately 90 per cent of the resistance    
+rise contributed by the arterial segment . small vessel resistance      
+increased in 52 per cent . there was no evidence of venous constriction 
+  3. blood viscosity appeared to play a minor role .                    
+  4. it is suggested that hemorrhagic necrosis of the bowel wall is due 
+to intense vasoconstriction in the precapillary vessels with subsequent 
+distal anoxia and cellular damage .                                     
+.I 271
+.W
+the response of dogs to perfusion and arrest of circulation at near zero
+cerebral temperatures .                                                 
+  1. twenty-six dogs were cooled by a whole body, closed chest perfusion
+technique to end perfusion brain temperatures of 14.1 to 0.2
+c. inclusive .                                                             
+  2. there were no deaths in the group of six dogs in which the end     
+perfusion brain temperature was 10.0 c. or higher .                     
+  3. in the 17 dogs cooled to brain temperatures of 5.0 c. or less there
+were nine deaths, of which five occurred quickly from cardiovascular    
+failure, while four resulted from gross neurologic disturbances .       
+  4. there was no evidence of aortic incompetence during whole body,    
+closed chest hypothermic perfusion .                                    
+  5. the lower the temperature of the brain at the end of the cooling   
+perfusion, the greater was the passive transfer of heat from the        
+environment .                                                           
+.I 272
+.W
+effects of graded hemorrhage on cardiopulmonary functions of hypothermic
+dogs .                                                                  
+  experiments were conducted on anesthetized dogs subjected to moderate 
+hypothermia (28 c.) and then bled in percentages of the estimated blood 
+volume . respiratory work was not influenced by the degree of hemorrhage
+pulmonary ventilation, respiratory rate and tidal volume were not     
+influenced significantly as a result of blood withdrawal . physiologic  
+dead space as a percentage of tidal volume increased with hemorrhage .  
+oxygen consumption decreased as the hemorrhage was made more severe,    
+whereas carbon dioxide production was unchanged, indicating a shift in  
+the respiratory exchange ratio . cardiac output decreased 78 per cent   
+from control level when 35 per cent of the estimated blood volume was   
+withdrawn . systemic arterial pressures decreased markedly but heart    
+rate was not changed as a result of blood withdrawal . comparison of    
+responses to hemorrhage in hypothermia and normothermia is discussed .  
+.I 273
+.W
+hypothermia in management of acute renal failure .                      
+  1. prolonged hypothermia begun in the period immediately following the
+infusion of epinephrine into the renal artery appears to give partial   
+protection against renal damage .                                       
+  2. shorter periods of hypothermia do not appear to be beneficial .    
+  3. prolonged hypothermia at 28 to 30 c. has a mortality rate of 50    
+percent
+to 60 percent .
+.I 274
+.W
+2803. effect of dosage on endotoxin-induced changes in the reticuloendothelial
+system of rabbits
+tissues were removed from rabbits 4
+and 24 hr. following an i.v. injection of 5,
+25, or 200 ug of endotoxin.  explants of
+tissues from normal and injected animals
+were grown in a coagulated plasma medium
+and in medium containing 1 ug/ml of
+endotoxin.  the migration and growth of cells
+were observed during the following week
+of incubation.  the inhibition or stimulation
+of cells of the reticuloendothelial system
+(res) at different host sites after endotoxin
+administration depended on the dosage
+and on the known capacity of different organs
+to take up circulating endotoxin.  macro-
+phage migration was suppressed in cultures
+of spleen removed 4 hr. after a dose of
+hibited by 200 ug, but macrophages in
+lymph node, testis, and thymus showed an in-
+crease in numbers, in extent of migration
+and in phagocytic activity.  widespread
+res stimulation was seen in tissues removed
+24 hr after the largest dose.  in ad-
+dition to the restoration of re cell activity in
+spleen and lung there was a marked
+increase in the migration of large phagocytic
+cells from bone marrow, as well as
+other organs.  macrophages from endotoxin-injected
+animals were as sensitive as
+normal macrophages to added endotoxin in vitro.
+.I 275
+.W
+3075. vaccinia pneumonia in mice.  a light and electron microscopic and viral
+assay study
+swiss white mice between 2 and 4 days of age
+developed generalized vaccinia viral
+infection 2 to 7 days after intranasal inoculation.
+gross and histologic evidence of
+pneumonia was seen in more than 80% of
+approximately 300 mice.  virus was re-
+covered in relatively high titers from the
+lungs (10   pfu per g) during the per-
+iod when pneumonia developed; viremia
+was also present, but virus titers in the
+blood stream remained much below those
+in the lungs.  histologically, vaccinia
+pneumonia was characterized by large swollen
+mononuclear cells giving rise to
+marked widening of alveolar septa.  only
+scattered neutrophils were noted, usually
+in association with cell necrosis.  exudation
+of edema fluid and red cells into al-
+veoli was considered the result of viral
+replication and cytopathic effect on cells
+comprising alveolar septa.  various forms
+of vaccinia virus were observed by elec-
+tron microscopy within both 'type i' and
+'type ii' alveolar lining cells, capillary
+endothelial cells, and interstitial cells
+within alveolar walls.  these infected inter-
+stitial cells were probably derived from
+fixed macrophages and were noted also
+around bronchioles.  virus particles were
+similarly observed in bronchiolar epi-
+thelium and surrounding smooth muscle
+cells.  the earliest pathologic ultrastruc-
+tural change noted in virus infected cells
+was intracellular edema, evidenced by
+low electron density of the background
+cytoplasmic material and dilatation of the
+endoplasmic reticulum.  more extensive
+changes resulted in cell necrosis with
+release of virus particles into the extracellular space.
+.I 276
+.W
+1161. electron microscopy of the bovine lungs  lattice and lamellar structures
+in the alveolar lumen
+in an electron microscopic study of samples
+from the lungs of 20 normal cattle,
+and from 4 with high mountain disease, lattice
+and lamellar structures were obser-
+ved free in the alveolar lumens in 25% of the
+normal cattle and in 100% of those with
+high mountain disease.  in one specimen, a
+lattice and lamellar structure was ob-
+served in a vacuole within an alveolar epithelial
+cell.  all others were extracellular.
+the shape and dimensions of these lattice and
+lamellar structures were similar to
+those described by other workers in experiments
+involving intratracheal injections
+of silicon and oleic and linoleic acid.  this is the
+first report of the structures free
+in the alveolar lumens of apparently normal cattle.
+.I 277
+.W
+1162. electron microscopy of the bovine lungs  the blood-air barrier in acute
+pulmonary emphysema
+electron microscopic studies of experimentally
+induced acute pulmonary emphy-
+sema in 2 cows yielded the following findings
+alveolar epithelial edema and cyto-
+lysis, endothelial 'thinning' and cytolysis,
+excessive elastic and collagenous alveo-
+lar wall fibrosis, hyperplasia of alveolar
+wall smooth muscle, numerous intra-
+alveolar lattice and lamellar bodies, hyaline
+membrane formation, hypertrophied
+endothelial perikaryons, numerous alveolar
+macrophages, and alveolar epithelial
+secretion of an electron-dense amorphous mass.
+it was postulated that the lattice
+and lamellar bodies were a result of degenerating
+alveolar epithelial cells.
+.I 278
+.W
+1560. the ultrastructure of the lungs of lambs.  the relation of osmiophilic
+inclusions and alveolar lining layer to fetal maturation and experimentally
+produced respiratory distress
+the lungs in 69 fetal and newborn lambs
+were studied.  osmiophilic inclusion bodies
+first appeared at about 121 days gestation
+and their total number increased with
+maturation.  normal surface activity of
+lung extracts was detectable a few days
+following the appearance of inclusion
+bodies.  the excretory nature of the type ii
+alveolar epithelial cell, the phospholipid
+nature of the inclusion body content, the
+decrease in the number of inclusion
+bodies and their loss of density associated
+with respiratory distress and with the
+loss of normal surface activity of lung ex-
+tracts provide strong evidence that
+inclusion bodies are the source of pulmonary
+surfactant.  a dense osmiophilic alveolar
+lining layer in mammals is described.
+since the presence of such a layer is
+well correlated with surface tension values
+and the number of inclusions, it is
+suggested that this layer consists of surface
+active substances.  the difficulty in
+detecting such an osmiophilic layer in other
+mammals is thought to be, at least
+in part, due to species differences in the compo-
+sition of materials constituting the
+pulmonary surfactant.  cytologic immaturity
+exists until lamb fetuses reach 135
+days gestation.  this is considered to be the
+basis for the susceptibility of immature
+lambs to respiratory distress.  fibrin with
+230 a periodicity is a component,
+although a small one, of hyaline membranes in
+lambs.  in view of the fact that mature
+fibrin appearing as bundles of fibrils is rare-
+ly found, it is suggested that the bulk
+of the hyaline membrane is not a mature fi-
+brin, but probably consists of polymers
+of fibrinogen and serum protein.
+.I 279
+.W
+1685. differentiation of exfoliative broncho-alveolar disease from desquamative
+interstitial pneumonia
+three cases are presented of the pulmonary
+disease described by liebow and asso-
+ciates and named by them desquamative
+interstitial pneumonia.  the cases support
+the existence of the entity and the contention
+that it had not been previously described.
+a differential diagnosis between exfoliative
+bronchoalveolar disease and desquamative
+interstitial pneumonia is submitted.  clinical,
+roentgenologic and histopathologic mani-
+festations are tabulated for each condition
+and the differences between them are em-
+phasized.  additional symptoms, changes
+and phenomena not previously recorded are
+introduced.  the most distinctive differences
+between the 2 diseases were found in
+the histopathologic manifestations.
+.I 280
+.W
+3831. lysosomes in the rat sciatic nerve following crush
+peripheral nerves undergoing degeneration
+are favorable material for studying the
+types, origins, and functions of lysosomes.
+the following lysosomes are described
+(a) autophagic vacuoles in altered schwann
+cells.  within these vacuoles the myelin
+and much of the axoplasm which it encloses
+in the normal nerve are degraded (wal-
+lerian degeneration).  the delimiting
+membranes of the vacuoles apparently form
+from myelin lamellae.  considered as
+possible sources of their acid phosphatase are
+golgi vesicles (primary lysosomes), lysosomes
+of the dense body type, and the endo-
+plasmic reticulum which lies close to the vacuoles.
+(b) mebranous bodies that accu-
+mulate focally in myelinated fibers in a zone extending
+2 to 3 mm distal to the crush.
+these appear to arise from the endoplasmic reticulum
+in which demonstrable acid
+phosphatase activity increases markedly within 2 hours
+after the nerve is crushed.
+(c) autophagic vacuoles in the axoplasm of fibers
+proximal to the crush.  the break-
+down of organelles within these vacuoles may have
+significance for the reorganization
+of the axoplasm preparatory to regeneration.
+(d) phagocytic vacuoles of altered
+schwann cells.  as myelin degeneration begins, some
+axoplasm is exposed.  this
+is apparently engulfed by the filopodia of the schwann
+cells, and degraded within the
+phagocytic vacuoles thus formed.  (e) multivesicular
+bodies in the axoplasm of myelina-
+ted fibers.  these are generally seen near the nodes of ranvier.
+.I 281
+.W
+2431. histochemistry of surface epithelial and pleural mucins in mammalian
+lung.  the demonstration of sialomucin in alveolar cuboidal epithelium
+sialo- and sulfomucins have been demonstrated
+histochemically in the surface
+layer of the lung and pleura from rabbit,
+syrian hamster, guinea pig, mouse, and
+man.  sialomucin predominates in the distal
+bronchial tree and covers the alveolar
+epithelial surface.  the possible significance
+of these observations is discussed.
+.I 282
+.W
+617. maturation of postnatal human lung and the idiopathic respiratory distress
+syndrome
+maturation and pathologic alterations of the lung
+in 19 newborn infants who died of idiopathic respiratory
+distress syndrome were studied by light-and electron
+microscopy.  normal lungs from 6 fetuses and 11 new-
+borns served as controls.  in all infants with idiopathic
+respiratory distress syndrome, respiratory bronchio-
+les and alveolar ducts usually presented the histologic
+pattern of mature lungs, i.e. they were predominantly
+lined by type i cells, which also formed the epithelial
+component of most blood-air barriers.  well expanded
+alveoli exhibited a similar pattern, whereas collapsed
+alveoli were lined by numerous type ii cells which par-
+ticipated in the formation of poorly developed blood-air
+barriers.  the capacity of type ii cells to produce in-
+clusion bodies seemed to increase with survival beyond
+the 14th hr of age.  secretion of inclusion bodies and
+presumably surfactant into alveolar spaces did occur
+but only in the lungs of infants older than 2 days.  how-
+ever, this process was not accompanied by reduction
+in the number of type ii cells per alveolus as in the nor-
+mal lung.  the distribution of pathologic changes in idio-
+pathic respiratory distress syndrome appeared to be
+determined by the degree of maturity of the air sacs.
+structurally mature air sacs were associated with da-
+mage of epithelial lining and hyaline membrane forma-
+tion.  in contrast, collapsed alveoli revealed an intact
+epithelial lining and marked septal edema but were free
+of hyaline membranes.  the findings of this study sug-
+gested that transudation of plasma through well develop-
+ed blood-air barriers was responsible for epithelial
+damage and hyaline-membrane formation in air sacs.
+they also suggested that alveolar collapse and presuma-
+bly lack of surfactant were related to abnormal matura-
+tion of the epithelial lining and to septal edema.
+.I 283
+.W
+903. lattice structures and osmiophilic bodies in the developing
+respiratory tissue of rats
+osmiophilic inclusions have been observed in the
+lungs of rats particularly in the 20-day rat embryo and
+newborn up to 3 days post partum.  these inclusions
+are present in the large alveolar cells as dense lamin-
+ated structures of variable size and configuration.  they
+generally consist of concentrically arranged membranes
+and have the appearance of myelin figures, usually with
+a dense center.  these osmiophilic inclusions are fre-
+quently seen in direct contact with the cell membranes
+and the alveolar space.  the alveolar space contains
+numerous osmiophilic myelin figures which are thought
+to originate from the intracellular osmiophilic inclu-
+sions.  they may extrude through a channel formed in-
+side the cell or by rupture of the cell membrane.  secre-
+tion materials may occasionally be seen in the cyto-
+plasm of the large alveolar epithelial cells.  these cells
+appear to be in the process of degeneration.  their cell
+surfaces are disrupted and the cytoplasm is continuous
+with materials in the air space.  the lattice structure
+in the alveolar space may originate from the cytoplas-
+mic secretion material.  the cytoplasmic secretion ma-
+terial in the cell and the lattice structures in the air
+space disappear after the rats are 3 days old.  (i,t*)
+.I 284
+.W
+454. xanthogranuloma (xanthoma) of choroid plexus.  the origin of foamy
+(xanthoma) cells
+a case of a 3-month-old infant with intense pro-
+liferation of choroidal epithelium with foamy cells, a
+second similar case in a 9-month-old infant with gener-
+alized glycogen storage disease and a case of a 51-year-
+old male with bilateral xanthogranuloma of choroid
+plexus and proliferation of the choroidal epithelial cells
+are discussed.  the pathogenesis of the foamy xanthoma
+cells in the stroma of the choroid plexus, particularly,
+is discussed.  the authors believe that the origin of foamy
+cells and the mode of formation of such a xanthogranuloma
+can be explained by the proliferative capability and the
+phagocytic activity of the choroid epithelium.  choroidal
+epithelial cells can be regarded as fixed macrophages
+which becomes wandering phagocytes after detachment.
+disintegration of these foamy cells then releases the
+lipid content into the interstitium and provokes a re-
+sponse of macrophages and multinucleated giant cells
+of the foreign-body type.  hemorrhage is also considered
+as a factor involved in the formation of xanthogranuloma.
+.I 285
+.W
+4. mixed hematopoietic and pulmonary origin of 'alveolar macrophages' as
+demonstrated by chromosome markers
+the origin of alveolar macrophages was investiga-
+ted in mouse chimeras in which the hematopoietic cells
+could be identified by marker chromosomes.  by chro-
+mosome analysis it was found that in both normal lungs
+and in lungs exposed to an irritant, approximately two-
+thirds of the dividing cells which could be recovered by
+lung washing arose from the hematopoietic system and
+one-third were of pulmonary origin.
+.I 286
+.W
+632. pulmonary alveolar proteinosis.  a study using enzyme histochemistry,
+electron microscopy, and surface tension measurement
+lung biopsies from 4 patients with pulmonary al-
+veolar proteinosis were studied using histochemical me-
+thods, electron microscopy, and surface tension mea-
+surement.  the lipid-rich intraalveolar fluid contained
+material with the staining reactions and ultrastructure
+of phospholipid.  although many alveoli were lined by
+enzymatically active, secreting granular pneumonocy-
+tes, extracts of proteinotic tissue were not surface
+active, and, in fact, inhibited normal surfactant.  some
+of the cells free in the intraalveolar material were de-
+generating sloughed granular pneumonocytes.  at the
+margins of the lesions were lipid-filled macrophages
+which appear to play a role in the removal of the mate-
+rial.  these observations indicate that alveolar protein-
+osis is not a primary overproduction of surfactant and
+are consistent with the concept that the alveolar clear-
+ing process is defective in this disease.
+.I 287
+.W
+1688. surface phenomena in lungs in health and disease
+in summary, the authors have attempted
+to bring together the multiple observations
+which seem germane to the understanding
+of surface phenomena in lungs in health
+and disease.  to this end, the contributions
+of anatomists and pathologists on the
+fine structure of alveolar cells and their
+lining are fundamental.  the concepts of
+alveolar stability required the special
+insights of physiologists who were concerned
+with the causes of bubble stability as
+they related to the particular problems posed
+by a lung of several millions of bubbles
+arranged in parallel.  soon the contributions
+of the chemists became significant as
+methods of identification and assay of the al-
+veolar lining material were of interest.
+clinicians asked what relevance these studies
+had to atelectasis as it occurs in disease,
+and soon the question of when the surfac-
+tant appeared in development occurred to
+those concerned with premature infants.
+students of metabolism began to focus on
+the lung as a site of phospholipid synthesis,
+and their tools seem most promising at
+this time in unearthing possible errors in
+metabolism which may express themselves
+in disease.  surgeons who undertake per-
+fusion of the isolated lung ask the
+requirements of that organ with respect to the
+nutrients and environment of the alveolar
+cells, and anesthesiologists inquire into
+the possibilities of mechanical injury
+to the alveoli during artificial respiration.
+the problems posed to the reviewers
+of a subject which touches so many disciplines
+are obvious.  doubtless some pertinent
+studies have been omitted although uninten-
+tionally; others may have been
+misinterpreted through lack of qualifications as spe-
+cialists in all specialties.  the
+authors hope they have provided evidence that the
+forces of surface tension cannot
+be ignored in an organ with an air-liquid interface
+of some 70 m2.  they further hope
+they have described some of the properties of
+the film at the alveolar-air interface
+which operate to produce stability of the alveoli.
+they hold the belief that study of the
+metabolism of the alveolar lining layer will
+further their understanding of a number
+of disease processes in which it may be
+altered.  and lastly, they hope for much
+closer communication between workers in
+many disciplines who can elucidate this
+remarkable subject best through cooperative
+studies.
+.I 288
+.W
+1689. alterations in pulmonary surface active lipids during ex-
+posure to increased oxygen tension
+the syndrome of progressive respiratory
+distress, pulmonary edema, and increased
+pulmonary surface tension was induced in
+8 dogs by exposure to oxygen tensions
+greater than 550 mm hg for 44.5 and 52
+hours.  pulmonary surfactant was extracted
+by endobronchial washing for measurement
+of lipid composition and surface activity.
+five dogs developed respiratory distress
+without pulmonary edema.  in these dogs
+endobronchial wash surface tension was
+normal or slightly increased, and total
+lipid distribution was essentially normal.
+esterified fatty acids in the lecithin frac-
+tion were consistently altered with a
+reduction in palmitate and total saturated fatty
+acids.  three dogs developed pulmonary
+edema with increased surface tension, in-
+creased total lipid and protein, and
+relatively decreased total phospholipid in the
+endobronchial washings.  esterified
+fatty acids in the lecithin fraction were marked-
+ly altered with palmitate levels about
+1/3 normal.  esterified arachidonate was pre-
+sent that was attributed to intra-alveolar
+plasma.  electron micrographs of the lung
+after oxygen exposure showed thickening
+of alveolar basement membrane and altera-
+tions in the structure of the lamellar bodies
+of the type ii alveolar epithelial cells.
+.I 289
+.W
+3805. cisternal fluid oxygen tension in man
+measurement of cerebral oxygen tension
+in man has been hampered by technical dif-
+ficulties.  the authors present a method
+in which a beckman microelectrode was
+introduced into the cisterna magna and
+oxygen tension measured, the hypothesis
+being that measurement of oxygen tension
+in a fluid which equilibrates with the
+average cerebral oxygen tension should
+give reliable measure of cerebral oxygen
+tension.  in their subjects, inhalation of
+pure oxygen produced an increase in the
+oxygen tension in the cisternal fluid as
+well as in the arterial blood without any
+alteration of the oxygen tension in the
+bulb of the internal jugular vein, whereas
+inhalation of 95% oxygen and 5% carbon
+dioxide increased the oxygen tension in the
+cisternal fluid as well as in the arterial
+and venous blood.  5% carbon dioxide in
+air produced an increase in the cisternal
+oxygen tension; a fall in arterial blood
+pressure associated with the introduction
+of the suboccipital needle was accom-
+panied by a decrease in cisternal oxygen
+tension which then rose simultaneously with
+the increase in arterial blood pressure
+that followed infusion of dextran.  intravenous
+injection of xanthinol niacinate induced
+in all patients a more or less pronounced fall
+in arterial blood pressure and at the
+same time the cisternal oxygen tension fell;
+administration of aramine was associated
+with a rise in arterial blood pressure
+plus a rise in cisternal oxygen tension.
+.I 290
+.W
+4181. cerebrospinal fluid in man native to high altitude
+csf ph was shown in a prior report to
+remain essentially constant during 8 days
+of acclimatization to 3,800 m.  in order
+to further evaluate the possible role of
+csf acid-base equilibria in the regulation
+of respiration, 20 peruvian andean na-
+tives were studied at altitudes of
+3,720-4,820 m.  in 10 subjects at 3,720 m, means
+were  csf ph 7.327, pco, 43, hco3-21.5,
+na+136, k+2.6, cl-124, lactate 30 mg/
+100 ml.  arterial blood  ph 7.43, pco, 32.5,
+hco3-21.3, na+136, k+4.2, cl-107,
+hematocrit 49, sao, 89.6.  in 6 subjects at
+4,545 m and 4 at 4,820 m csf values
+were not significantly different; mean arterial
+pco, was 32.6 and 32.3, respectively.
+the only significant variations with altitude
+were the expected lowering of pao, to
+47 and 43.5 mm hg, and of sao, to 84.2 and
+80.7, and increase of hematocrit to
+67% and 75%, respectively.  the natives
+differed from recently acclimatized sea-
+level residents in showing less ventilation
+(higher pco,) in response to the ex-
+isting hypoxia, and less alkaline arterial
+blood.  the difference appears to relate
+to peripheral chemoreceptor response
+to hypoxia rather than central medullary
+chemoreceptor.
+.I 291
+.W
+1116. na, k, ca, mg, and cl concentrations in choroid plexus fluid
+and cisternal fluid compared with plasma ultrafiltrate
+in 7 cats the concentrations of na,
+k, ca, mg, and cl were measured in plasma
+ultrafiltrate, newly formed choroid
+plexus fluid, and cisterna magna fluid.  the
+choroid plexus fluid did not differ
+from plasma ultrafiltrate in cl and k concentra-
+tion but contained higher na, markedly
+higher mg, and lower ca concentrations
+than the ultrafiltrate.  cisterna magna
+fluid differed from the ultrafiltrate with
+respect to all 5 electrolytes, containing
+higher concentrations of cl, na, and mg
+and lower concentrations of k and
+ca.  it differed from choroid plexus fluid in con-
+taining a higher concentration of cl but
+lower concentrations of k, ca, and
+mg.  hco3-concentration, calculated on the
+basis of the charge balance, was 7 mm/kg
+h2o higher in choroid plexus fluid than
+in cisterna magna fluid, suggesting an ele-
+vated ph at the former site.  without
+measurement of the potential difference be-
+tween the csf and plasma, definitive
+conclusions could not be drawn as to which
+cations were actively transported.  the fact
+that the distribution ratio between cerebro-
+spinal fluid and ultrafiltrate of one divalent
+cation was in the opposite direction
+from that of the other, and that this was
+also true of the monovalent cations, was
+taken as evidence that the mechanisms
+involved in cation transfer are quite selec-
+tive.  though not proven, active transport
+was considered the most likely explana-
+tion of these findings.  the data suggest
+that these specific transfer mechanisms
+subserve a homeostatic function with
+regard to mg and k in the cerebrospinal fluid.
+.I 292
+.W
+3230. cerebral hemodynamics, blood gases, and electrolytes
+during breath-holding and the valsalva maneuver
+continuous recordings of arterial and
+internal jugular blood oxygen tension, oxy-
+gen saturation, carbon dioxide tension,
+ph, sodium and potassium, together with
+peco2, blood pressure, and
+electroencephalogram were obtained to compare the
+effects of inspiratory and expiratory
+breath-holding and the valsalva maneuver on
+the cerebral circulation and cerebral
+oxygen availability in man.  during the inter-
+val of tolerated breath-holding for
+69 seconds or less, jugular venous oxygen tension
+was increased owing to increased
+cerebral blood flow resulting from an increase
+of arterial carbon dioxide tension.
+there was a statistically significant correlation
+between changes in jpo2 and paco2,
+which proved to be more or less linear for
+both increases and decreases of paco2 4
+mm. above and below control levels.  no
+threshold was found for changes in paco2
+altering effective cerebral perfusion and
+cerebral venous po2, extremely small
+changes in paco2 (less than 1 mm. hg)
+altered cerebral oxygen availability within
+10 to 20 seconds.  during the valsalva
+maneuver a consistent reduction of jugular
+oxygen tension was found associated
+with the sudden fall in arterial blood
+pressure and reduction of arterial carbon
+dioxide tension.  the rapid changes in
+cerebral hemodynamics and cerebral oxy-
+gen availability during the procedure
+are briefly discussed.
+.I 293
+.W
+2344. respiratory and cardiovascular changes during rapid spon-
+taneous variations of ventricular fluid pressure in pa-
+tients with intracranial hypertension
+in patients with intracranial hypertension
+the ventricular fluid pressure (vfp)
+curve is characterized by 3 main forms
+of spontaneous variations.  two of these
+forms are of a rhythmical nature, and
+are here called 1-per-minute waves and 6-
+per-minute waves, respectively, in
+accordance with the dominating frequency.
+the third form - irregularly appearing
+waves of large amplitude and duration -
+is called plateau waves in accordance
+with the usual shape of the fluctuations.
+respiratory and cardio-vascular changes
+accompanying these variations of the vfp
+were studied by simultaneous recording,
+in various combinations, of the vfp, the
+pulmonary ventilation, the pco2 of the
+expiratory air, the arterial and the venous
+blood pressure, and the pulse frequency.
+it was found that the rhythmic vfp vari-
+ations of the 1-per-minute type occurred
+synchronously with the respiratory peri-
+ods in cheyne-stokes breathing.
+synchronously appearing variations in systemic
+blood pressure, in pulse frequency,
+as well as in consciousness and in muscular
+tone of the limbs were also noted.  the
+respiratory midposition shifted towards the
+inspiratory side during the periods of
+hyperpnoea.  the 6-per-minute waves were
+entirely synchronous with variations
+in the systemic arterial blood pressure of the
+traube-hering-mayer type.  long
+sequences of these waves were observed only
+when the vfp level was considerably
+elevated.  the plateau waves were not accom-
+panied by corresponding elevations of
+the arterial or venous systemic blood pres-
+sure.  simultaneously with the crests
+of the plateau waves sudden changes often
+occurred in the pulse frequency (from
+bradycardia to tachycardia), and in the res-
+piratory pattern, sometimes also in the
+degree of consciousness and in the muscu-
+lar tone.  there were also long sequences
+of 6-per-minute waves.  the deep, irre-
+gular breathing seen in this stage induced
+a considerable hypocapnia preceeding
+the final critical fall in the vfp ending the
+plateau wave.  in most instances, how-
+ever, this fall did not begin until several
+minutes after the appearance of the hypo-
+capnia.
+.I 294
+.W
+82. central nervous system lesions in rats
+exposed to oxygen at high pressure
+adult female rats paralyzed by repeated exposures
+to oxygen at high pressure were found to have cns le-
+sions of 2 types  (1) focal necrosis of individual neurons
+within certain nuclear groups, and (2) complete or partial
+necrosis of nuclear groups with frequent damage to mye-
+lin, axons, and glia in the area involved.  both types
+were usually bilateral and symmetrical.  lesions of the
+first type were found consistently in the superior olivary
+complex, ventral cochlear nuclei, and nuclei of the spinal
+tract of cranial nerve v.  lesions of the second type were
+found consistently in the substantia nigra and globus pal-
+lidus, were frequent in the rhinencephalon, and never
+occurred in the neocortex.
+.I 295
+.W
+747. electrode size and tissue po2 measurement in rats exposed
+to air or high pressure oxygen
+a comparison has been made of values of
+po2 recorded in several rat tissues with
+60-u or 330-u flexible gold electrodes.
+although qualitatively both sizes of elec-
+trodes give similar results, the quantitative
+values of po2 differ.  such large differ-
+ences as are found in some cases between
+electrodes varying only in physical di-
+mensions are thought to reflect the amount
+of trauma caused in the tissue under in-
+vestigation due to electrode insertion.
+errors in po2 estimations due to tissue da-
+mage are considered to outweigh any other
+errors such as those due to electrode
+calibration.  soft, highly vascular tissues,
+such as liver, kidney and spleen, which
+show macroscopic bruising over quite a
+large area when electrodes are inserted,
+show the greatest difference in estimations
+of the po2 value.  recordings of tissue
+po2 were made while animals breathed air
+and when compressed to 4 or 5 atm. in
+pure oxygen, and the pattern of response of
+tissue po2 to such exposure of the ani-
+mal to high pressures of oxygen is described.
+.I 296
+.W
+3384. adrenergic effects in splenic po2 of rats in air or oxygen
+at 5 atmospheres
+oxygen tensions have been measured
+in the spleens of rats breathing air and during
+exposure of the animals to 5 atm abs
+of oxygen (hpo).  the response of splenic po2
+to compression was complex, usually
+reaching a peak value immediately after com-
+pression, then falling to a lower value.
+this form of response has been termed a
+hump response.  after adrenalectomy
+or bretylium tosylate injection the hump res-
+ponse of po2 after compression was
+almost abolished, and the values of splenic po2
+at 5 atm were considerably higher
+than in control animals.  a combination of adrena-
+lectomy and bretylium tosylate also
+markedly reduced the number of hump responses,
+but unexpectedly significantly lowered
+splenic oxygen tensions, both when the ani-
+mals were under ambient conditions
+or at 5 atm of oxygen.  cardiac rate and blood
+pressure were studied in an attempt
+to find the explanation of this latter effect, and
+while blood pressure was the same
+in adrenalectomized rats and control rats after
+bretylium injection, adrenalectomy
+potentiated the bradycardia produced by brety-
+lium tosylate.
+.I 297
+.W
+10642. the effects of antioxidants on high pressure oxygen toxicity
+several commonly used antioxidants have
+been tested for their effect against poison-
+ing due to high pressures of oxygen (ohp).
+the tests used were preconclusive pe-
+riod and survival time of mice at 5 atm
+absolute oxygen, lung damage in rats ex-
+posed to 5 atm oxygen for 1 hr., and post
+ohp paralysis in rats following deep
+pentobarbital-na anesthesia and ohp at 4
+atm for 30 min.  2,5-bis (1,1-dimethyl-
+propyl) hydroquinone gave excellent
+protection against ohp toxicity in all tests,
+and several other antioxidants also
+protected against ohp toxicity but their potency
+and effectiveness varied for the
+different criteria of oxygen poisoning tested in the
+experiments.
+.I 298
+.W
+3716. glycolytic control mechanisms. i. inhibition of glycolysis
+by acetate and pyruvate in the isolated, perfused rat heart
+acetate or pyruvate had similar effects
+on the over-all metabolism of glucose.  gly-
+colytic flux was decreased in both the
+presence and absence of insulin, glucose
+oxidation was greatly decreased, and
+the conversion of glucose to glycogen and lac-
+tate was promoted.  glucose phosphorylation
+was decreased in the presence but not
+in the absence of insulin.  hexokinase,
+phosphofructokinase, glyceraldehyde phos-
+phate dehydrogenase, and pyruvic kinase
+are far displaced from equilibrium, while
+the other enzymic steps of glycolysis
+are maintained either at equilibrium or fairly
+close to equilibrium.  in different metabolic
+situations, glycolytic flux may be affec-
+ted by those steps which are far displaced
+from equilibrium.  increased levels of
+the hexose monophosphates, and decreased
+levels of the other glycolytic inter-
+mediates between fructose 1,6-diphosphate
+and pyruvate after the addition of 10 mm
+acetate indicate that glycolytic flux was
+decreased by inhibition of phosphofructo-
+kinase.  after the addition of 10 mm pyruvate,
+fructose 1,6-diphosphate, and triose-
+phosphate accumulated as a result of an
+inhibition of either glyceraldehyde phosphate
+dehydrogenase or phosphoglyceric kinase.
+acetate had little effect on the total con-
+tent of oxidized or reduced di- or
+triphosphopyridine nucleotides, but slightly de-
+creased the ratio of nad to nadh2
+in the cytoplasm, as estimated from the ratios
+of lactate to pyruvate and a-glycerophosphate
+to dihydroxyacetone phosphate.  pyru-
+vate increased the total content of nadh2
+and nadph2 as shown both by an increase
+of fluorescence in the intact heart, and by
+tissue analyses, but the ratio of nad to
+nadii2 in the cytoplasm was greatly
+increased.  these results demonstrate com-
+partmentation of pyridine nucleotides
+between cytoplasm and mitochondria in the
+intact cell.  after the addition of acetate,
+citrate was the only intermediate of the
+citric acid cycle which increased greatly
+in amount, while oxaloacetate levels de-
+creased.  after the addition of pyruvate,
+the levels of citrate, a-ketoglutarate, ma-
+late, and oxaloacetate were all greatly
+elevated.  the glutamic-oxaloacetate trans-
+aminase reaction as measured from the
+total contents of the reactants in the tissue
+remained close to equilibrium.  changes
+in the concentrations of the adenine nu-
+cleotides were insufficient to account for
+the inhibition of phosphofructokinase, but
+the results are consistent with control at this
+step being mediated by citrate.
+.I 299
+.W
+244. oxygen tension in human malignant disease under hyperbaric
+conditions
+oxygen tensions were recorded continuously
+in tumours and normal tissues of 34 pa-
+tients pressurized in pure oxygen to 4 atmospheres
+absolute.  mean rises to 620
+mm. hg and 320 mm. hg for tumours and normal tissues
+respectively were recorded.
+with patients breathing air at atmospheric
+pressure 22/90 (24%) of tumour elec-
+trodes registered po2values of less than 4 mm. hg
+compared to only 2/39 (5%) of normal
+tissue electrodes.  the results obtained
+suggest that oxygen polarography as a meth-
+od for determining po2 in 'solid' tissues
+in vivo is complicated by many artefacts -
+particularly tissue damage due to electrode
+trauma - which reduce its value to clin-
+ical research concerned with accurate
+information of absolute po2 values in intact
+tissues.
+.I 300
+.W
+7839.cortical ph and the blood-brain barrier
+a method was described for measuring
+the ph, dc and ac potentials concurrently
+on the cerebral cortex of the adult cat,
+under conditions of controlled ventilation.
+kittens and rabbits were also studied.
+the cortical ph response to i.v. nahco3
+was acidic and was accompanied by a
+dc negativity, while the blood became alkaline.
+such an acidic response was present in
+the rabbit and kitten.  it was not present
+in a number of other tissues in the cat,
+including the dura.  the cortical acidic
+response was not affected, qualitatively,
+by i.v. acetazolamide, prolonged hypoxia
+or 10% (v/v) co2.  it was reduced reversibly
+by 20% (v/v) co2.  it was not affected
+by removal of the arachnoid membrane.
+the cortical ph response to an i.v. nh4+
+salt solution was complex.  nh4c1 did not
+produce an alkaline response.  the cortical
+ph response to an alkaline or an acidic
+sodium phosphate solution was augmented
+but not changed in its direction following
+treatment of the cortex with n-butanol.
+the results were interpreted in terms of
+a restriction of hco3- by the blood-brain
+barrier, through which co2 can pass.  this
+restriction is probably non-specific for
+inorganic ions, and perhaps for other
+substances.  it does not appear to be related
+to a low cerebral extracellular space,
+and is independent of substantial oxidative metabolism.
+.I 301
+.W
+7083. brain damage and paralysis in animals exposed to high pressure oxygen -
+pharmacological and biochemical observations
+single exposures of high pressure oxygen
+(ohp) at 30-66  gauge pressure caused
+cns damage and paralysis in rats and mice
+but guinea-pigs, rabbits, and man did
+not show such sequelae.  the cns damage
+in rats was greatly increased by cns-de-
+pressant drugs (pentobarbital, paraldehyde,
+n2o and phencyclidine) given before ex-
+posure to ohp.  the cns lesions were also
+potentiated by raised respired pco2, by
+acetazolamide and by nh4c1, whilst protection
+was afforded by methaemoglobinae-
+mia by tham, by 2 4-dinitrophenol and by
+serotonin against the barbiturate and
+co2 potentiation of ohp brain damage.
+ohp-induced brain damage was not modified
+by hypothermia (cp2), electroconvulsive
+shock treatment during ohp, cerebral x-
+irradiation, adrenalectomy or cortisone,
+slow decompression rates, spinal block
+with local anaesthetic, 'conditioning' of
+rats to ohp, hyper- and hypoglycaemia, or
+alterations in tissue histamine levels.
+the results are discussed in relation to pos-
+sible biochemical mechanisms and
+theories of oxygen poisoning.
+.I 302
+.W
+8914. the effect of hypoxia on oxygen consumption of cerebral
+cortex, liver slices and of diaphragm in vitro during post-
+natal development of the rat
+oxygen consumption of slices from the liver
+and cerebral cortex and of the cut dia-
+phragm was determined in rats aged 5, 10,
+14, 20 and 25 days and in adult animals.
+under hypoxic conditions (gas phase 10%
+oxygen, 90% nitrogen) oxygen consumption
+of liver slices and diaghragm is decreased
+by about 25% in all age groups.  hypoxia,
+however, did not affect oxygen consumption
+of slices of the cortex from 5-day-old
+rats and its inhibitory effect only appeared
+later as the normal oxygen consumption
+started to rise.  the inhibitory effect of
+hypoxia was greatest in adult animals.
+.I 303
+.W
+5407. hypoxic-hypercapnic interaction in subjects with bilateral
+cerebral dysfunction
+to analyze cerebral influences modifying
+autonomic respiratory responses, the
+authors compared normals and patients
+with bilateral pyramidal tract disease for
+their ventilatory response to hypoxia and
+hypoxia-hypercapnia.  during eucapnia,
+the 2 groups showed similar hypoxic
+responses.  during hypercapnia, the ventilatory
+response to hypoxia was greater in the
+brain-damaged subjects.  this apparent aug-
+mentation, however, was due entirely
+to anoxia interacting with an abnormally fa-
+cilitated carbon dioxide sensitivity
+compared with normals, brain-damaged patients
+at pao,90-100 mm hg showed an 85%
+greater co2 response, and at pao,50mm hg
+showed a 79% greater co2 response.
+since cerebral dysfunction facilitated the ven-
+tilatory response to hypoxia-hypercapnia
+combined but not the response to hypoxia
+alone, the results imply that the 2
+respiratory stimuli interact centrally rather than
+peripherally.
+.I 304
+.W
+3917. plasma free fatty acid and blood sugar levels in newborn
+infants and their mothers
+simultaneous plasma free fatty acid (ffa)
+and blood sugar levels were determined
+for fasting newborn infants during the first
+24 hours of life, for their cord bloods,
+and for their mothers at delivery.  the
+following observations were made.  in con-
+trol infants the mean ffa level rose about
+three times the cord level after birth
+and was accompanied by a 25% drop in the
+mean blood sugar level.  thereafter, the
+mean blood sugar level remained relatively
+constant, but the mean ffa level varied
+from 2.5 to 3 times the cord level.  there
+was no significant correlation between the
+length of maternal fasting prior to delivery
+and the infant ffa level; there was,
+however, a significant negative correlation
+between the length of maternal fasting
+prior to delivery and the infant blood sugar
+level at 24 hours of age.  high ffa levels
+occurred in the infants of obese mothers
+and low levels were observed in infants with
+delayed respirations, in infants of preeclamptic
+mothers, and in infants of diabetic
+mothers.
+.I 305
+.W
+2933. the essential fatty acid requirement of infants and the
+assessment of their dietary intake of linoleate by serum
+fatty acid analysis
+the content of polyunsaturated fatty acids
+in serum total fatty acids was related
+to the dietary intake of linoleate in 243 infants
+two to four months of age and in 197
+infants eleven to twelve months of age.  the
+curves relating triene tetraene ratio
+to dietary linoleate indicated approximately
+1 per cent of total calories as minimal
+linoleate requirement.  the exponential
+equations relating dienoic, trienoic and
+tetraenoic acids to dietary linoleate were
+derived by computer methods.  these
+yielded constants from which the minimal
+nutrient requirement could be calculated.
+the best estimates were obtained from the
+triene and tetraene data for two to four
+months' old infants and were found to be
+approximately 1.4 per cent of the caloric
+intake.  the nutritive status with respect to
+linoleate may be estimated by means
+of logarithmic regression equations.  the
+equation for two to four months' old infants
+is  log 10 dietary linoleate = -1.087 + 0.0432
+(di - tri + tetra).  the data for eleven to
+twelve months' old infants were found to have
+greater scatter and give lower triene
+tetraene ratios at comparable linoleate intakes.
+the scatter and displacement are
+considered to be due to supplements of solid food
+to the basic diet not considered in
+the calculated dietary linoleate.
+.I 306
+.W
+74. analytic study of the a- and b-lipoprotein micellar groups
+and of nonesterified fatty acids of the plasma in normal pregnancy
+an analytical study has been made on 39
+patients, using a chemical method which
+allows the simultaneous detailed evaluation
+of the lipidic and a- and b-liproproteinic
+fractions of the plasma.  in addition the
+non-esterified fatty acids have been titrated,
+the b-proteins and the uric acid assayed,
+and numerous indices and deducible ratios
+made from the data obtained.  the existence
+of quantitative dyslipidemia has been
+proven, starting gradually, especially in the
+4th-5th month of pregnancy, and most-
+ly regarding the b-lipoproteins, prevalently
+the slow subfractions, greater increase
+of glycerides than phosphatides and cholesterol,
+but with a non-proportional in-
+crease of b-proteins (lower proteinic content).
+it has, moreover, been noted that
+there is a prevalent rise of free cholesterol in
+the fraction of b-lipoproteins with
+a reduction of the total esterification coefficient.
+the morphological picture of the
+lipidic rate in pregnancy shows characteristics
+which, according to the authors,
+are like those to be seen in the lipidic rate of
+male presenility.
+.I 307
+.W
+75. behavior of polyunsaturated fatty acids in physiological
+pregnancy
+by the enzymatic lipoxidase method of
+macgee et al., the author measured polyun-
+satured fatty acids (p.f.a.) in healthy
+pregnant women at full term of pregnancy.
+before labour there are in the blood 75-95
+mg.% of p.f.a., i.e. 10-15% more
+than in non-pregnant women; during labour
+p.f.a. increase very much, 100-137
+mg.%, about 50% more than before labour.
+.I 308
+.W
+5196. effects of nutritional deficiency of unsaturated fats on
+the distribution of fatty acids in rat liver mitochondrial phospholipids
+the fatty acid composition of liver mitochondrial
+phospholipids from rats rendered
+deficient in essential unsaturated fatty acids
+has been determined, and compared
+with that of rats fed a diet containing corn oil.
+in addition to marked reductions in
+the amounts of linoleic and arachidonic acids
+esterified at the b-position of ethanol-
+amine-, inositol-, and choline glycerophosphatides,
+the deficiency resulted in ex-
+tensive changes in the distribution of saturated
+acids at both the a- and b-positions.
+palmitoleic and oleic acids were increased in
+amount in fat deficiency, and large
+amounts of docosatrienoic acids appeared in
+these 3 phospholipids.  the fatty acids
+of the sphingomyelins were not altered as a
+result of essential fatty acid deficiency.
+the data demonstrate that each phospholipid
+is unique in the way in which its fatty
+acid moieties change in response to feeding
+a fat deficient diet.
+.I 309
+.W
+3204. interventricular septal defects with aortic insufficiency
+sanchez f.-villaran e.
+the coincidence of these 2 malformations
+permits their diagnosis provided that a
+careful evaluation is made of the hemodynamic
+and oximetric data, on the basis of
+specific auscultatory features.  even then, a
+differentiation from other cardiopathies
+patent ductus arteriosus with/without pulmonary
+hypertension, aortopulmonary sep-
+tal defect, interventricular communication,
+truncus arteriosus, aneurysm of the
+sinus aortae ruptured into right cavities - is
+not simple.  for this an analysis of the
+course of the syndrome together with the
+information supplied by phonocardiography,
+catheterization, angiocardiography, radiology
+and ecg (in this order of importance)
+are indispensable.  an analysis is made of 5 cases
+in which, in the absence of ana-
+tomical confirmation, concrete data were obtained
+on which to base the diagnosis.
