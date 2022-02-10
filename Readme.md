@@ -14,7 +14,7 @@ This project is developed with Apache Lucene, a Java full-text search engine sof
 Clone the repository:
 
 ```
-https://github.com/mohsenMahmoodzadeh/Lucene-Index-Searcher.git
+git clone https://github.com/mohsenMahmoodzadeh/Lucene-Index-Searcher.git
 ```
 
 Download java suitable for your machine from [here](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html). After installation, you can use the following command to check that java is installed correctly: 
