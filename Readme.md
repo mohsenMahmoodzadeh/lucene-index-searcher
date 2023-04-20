@@ -11,13 +11,13 @@ This project is developed with Apache Lucene, a Java full-text search engine sof
 
 ## Setup Guide
 
-Clone the repository:
+- Clone the repository:
 
 ```
-git clone https://github.com/mohsenMahmoodzadeh/Lucene-Index-Searcher.git
+git clone https://github.com/mohsenMahmoodzadeh/lucene-index-searcher.git
 ```
 
-Download java suitable for your machine from [here](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html). After installation, you can use the following command to check that java is installed correctly: 
+- Download java suitable for your machine from [here](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html). After installation, you can use the following command to check that java is installed correctly: 
 
 ```
 java --version
@@ -38,7 +38,7 @@ Download lucene 7.4.0 from [here](https://archive.apache.org/dist/lucene/java/7.
 
 ## Usage Guide
 
-Run main() method of Main.java, and enter the directories of data and index(the path you want to save).
+Run ```main()``` method of ```Main.java```, and enter the directories of data and index(the path you want to save).
 
 
 ## Future Works
